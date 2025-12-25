@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Day 1 – Git & GitHub Setup  
-**(Date: 16-Dec-2025)**
+**(Date: 15-Dec-2025)**
 
 ### ✅ Tasks Completed
 - Installed and configured **Git**
@@ -40,7 +40,7 @@ BridgeLabz-Training/
 ---
 
 ## 📅 Day 2 – Git Practice & Basic Java Programs  
-**(Date: 17-Dec-2025)**
+**(Date: 16-Dec-2025)**
 
 ### ✅ Tasks Completed
 - Practiced the **Git workflow** to understand commits and version control
@@ -51,7 +51,7 @@ BridgeLabz-Training/
 👉 [Day 2 – Basic Java Programs](gcr-codebase/program-prerequisites)
 
 ## 📅 Day 3 – Programming Elements in Java  
-**(Date: 18-Dec-2025)**
+**(Date: 17-Dec-2025)**
 
 ### ✅ Topics Covered
 - Variables and Data Types  
