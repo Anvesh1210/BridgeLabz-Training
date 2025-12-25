@@ -65,3 +65,21 @@ BridgeLabz-Training/
 ### 🔗 Code Link
 👉 [Day 3 – Programming Elements](gcr-codebase/programming-elements)
 
+## 📅 Day 4 – Java Control Flows  
+**(Date: 18-Dec-2025)**
+
+### ✅ Topics Covered
+- Boolean data type  
+- Boolean expressions and logical operators  
+- Conditional statements (`if`, `else if`, `else`)  
+- Loops (`for`, `while`)  
+- `switch`, `break`, and `continue`  
+
+### 🧪 Practice Work
+- Solved practice problems based on control flow logic
+- Committed and pushed solutions to the repository
+
+### 🔗 Code Link
+👉 [Day 4 – Java Control Flows](gcr-codebase/control-flows)
+
+
