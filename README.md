@@ -114,3 +114,18 @@ BridgeLabz-Training/
 ### 🔗 Code Link
 👉 [Day 6 – Java Methods](gcr-codebase/methods/)
 
+## 📅 Day 7 – Java Strings & Exception Handling  
+**(Date: 22-Dec-2025)**
+
+### ✅ Topics Covered
+- Creating and manipulating strings  
+- String arrays and built-in methods  
+- Exception types and hierarchy  
+
+### 🧪 Practice Work
+- Solved practice problems using strings
+- Committed and pushed solutions to the repository
+
+### 🔗 Code Link
+👉 [Day 7 – Java Strings](core-java-practice/core-codebase/strings/)
+
