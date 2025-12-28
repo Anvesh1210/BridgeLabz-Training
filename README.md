@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Day 9 – Introduction to Object-Oriented Programming  
+## 📌 Day 1 – Introduction to Object-Oriented Programming  
 **(Date: 26-Dec-2025)**
 
 ### ✅ Overview
@@ -23,7 +23,7 @@
 ### 🔗 Code Link
 👉 [Day 9 – Introduction to OOP](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
 
-## 📌 Day 10 – Constructors & Access Modifiers Best Practices  
+## 📌 Day 2 – Constructors & Access Modifiers Best Practices  
 **(Date: 27-Dec-2025)**
 
 ### ✅ Overview
