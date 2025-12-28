@@ -129,3 +129,20 @@ BridgeLabz-Training/
 ### 🔗 Code Link
 👉 [Day 7 – Java Strings](core-java-practice/core-codebase/strings/)
 
+## 📌 Day 8 – Extras  
+**(Date: 24-Dec-2025)**
+
+### ✅ Overview
+- Practiced **string handling** and common string methods  
+- Learned **functions**, parameter passing, and return values  
+- Used built-in utilities like `Random` and `Math`  
+- Introduced **date and time** handling using modern Java APIs  
+- Followed best practices for organizing code into functions  
+
+### 🧪 Hands-on Practice
+- Solved programs using strings, built-in functions, and date-time
+- Organized code into reusable methods
+- Committed and pushed the code to the repository
+
+### 🔗 Code Link
+👉 [Day 8 – Extras](/core-java-practice/gcr-codebase/extra)
