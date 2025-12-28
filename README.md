@@ -1,1 +1,24 @@
-# BridgeLabz-Training
+## 📅 Week 2: Object-Oriented Programming
+
+---
+
+## 📌 Day 9 – Introduction to Object-Oriented Programming  
+**(Date: 26-Dec-2025)**
+
+### ✅ Overview
+- Explored **procedural programming** and understood its limitations  
+- Compared **procedural vs object-oriented programming** paradigms  
+- Learned why **OOP** is widely used in modern software development  
+
+### 📘 Core OOP Concepts
+- Class and Object  
+- Encapsulation and Abstraction  
+- Inheritance  
+- Polymorphism  
+
+### 🧪 Hands-on Practice
+- Implemented a sample program using the procedural approach
+- Committed and pushed the code to the repository
+
+### 🔗 Code Link
+👉 [Day 9 – Introduction to OOP](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com)
