@@ -162,3 +162,14 @@ BridgeLabz-Training/
 ### 🔗 Code Link
 👉 [Day 9 – Core Java Practice](/)
 
+## 📌 Day 10 – Scenario-Based Problems 
+**(Date: 29-Dec-2025)**
+
+### ✅ Overview
+- Solved **5 scenario-based problems** based on Java control flow
+- Practiced conditional statements and loops
+- Learned **formatted output** for better and readable console results
+- Improved logical thinking through real-world problem scenarios
+
+### 🔗 Code Link
+👉 [Day 10 – Control Flow Practice](scenario-based-codebase/control-flows)
