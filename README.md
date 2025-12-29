@@ -127,7 +127,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository
 
 ### 🔗 Code Link
-👉 [Day 7 – Java Strings](core-java-practice/core-codebase/strings/)
+👉 [Day 7 – Java Strings](gcr-codebase/strings/)
 
 ## 📌 Day 8 – Extras  
 **(Date: 24-Dec-2025)**
@@ -145,4 +145,20 @@ BridgeLabz-Training/
 - Committed and pushed the code to the repository
 
 ### 🔗 Code Link
-👉 [Day 8 – Extras](/core-java-practice/gcr-codebase/extra)
+👉 [Day 8 – Extras](gcr-codebase/extra)
+
+## 📌 Day 9 – Core Java Practice  
+**(Date: 26-Dec-2025)**
+
+### ✅ Overview
+- Solved **LeetCode** problems to improve logic and optimization
+- Practiced **scenario-based** Java programs for real-world understanding
+- Revised core Java concepts through hands-on coding
+
+### 🧪 Practice Work
+- Implemented and tested Java solutions
+- Committed and pushed the code to the repository
+
+### 🔗 Code Link
+👉 [Day 9 – Core Java Practice](/)
+
