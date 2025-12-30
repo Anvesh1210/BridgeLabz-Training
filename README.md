@@ -127,7 +127,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository
 
 ### 🔗 Code Link
-👉 [Day 7 – Java Strings](core-java-practice/core-codebase/strings/)
+👉 [Day 7 – Java Strings](gcr-codebase/strings/)
 
 ## 📌 Day 8 – Extras  
 **(Date: 24-Dec-2025)**
@@ -145,4 +145,31 @@ BridgeLabz-Training/
 - Committed and pushed the code to the repository
 
 ### 🔗 Code Link
-👉 [Day 8 – Extras](/core-java-practice/gcr-codebase/extra)
+👉 [Day 8 – Extras](gcr-codebase/extra)
+
+## 📌 Day 9 – Core Java Practice  
+**(Date: 26-Dec-2025)**
+
+### ✅ Overview
+- Solved **LeetCode** problems to improve logic and optimization
+- Practiced **scenario-based** Java programs for real-world understanding
+- Revised core Java concepts through hands-on coding
+
+### 🧪 Practice Work
+- Implemented and tested Java solutions
+- Committed and pushed the code to the repository
+
+### 🔗 Code Link
+👉 [Day 9 – Core Java Practice](/)
+
+## 📌 Day 10 – Scenario-Based Problems 
+**(Date: 29-Dec-2025)**
+
+### ✅ Overview
+- Solved **5 scenario-based problems** based on Java control flow
+- Practiced conditional statements and loops
+- Learned **formatted output** for better and readable console results
+- Improved logical thinking through real-world problem scenarios
+
+### 🔗 Code Link
+👉 [Day 10 – Control Flow Practice](scenario-based-codebase/control-flows)
