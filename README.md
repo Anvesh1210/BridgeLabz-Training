@@ -21,7 +21,7 @@
 - Committed and pushed the code to the repository
 
 ### 🔗 Code Link
-👉 [Day 9 – Introduction to OOP](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
+👉 [Day 1 – Introduction to OOP](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
 
 ## 📌 Day 2 – Constructors & Access Modifiers Best Practices  
 **(Date: 27-Dec-2025)**
@@ -45,4 +45,29 @@
 - Committed and pushed the code to the repository
 
 ### 🔗 Code Link
-👉 [Day 10 – Constructors & Access Modifiers](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
+👉 [Day 2 – Constructors & Access Modifiers](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
+
+## 📌 Day 3 – this, static, final Keywords & instanceof Operator  
+**(Date: 29-Nov-2025)**
+
+### ✅ Overview
+- Learned the usage of **this**, **static**, and **final** keywords in Java
+- Understood the purpose of the **instanceof** operator
+- Explored how these keywords help in memory management and code clarity
+- Introduced to the **Eclipse IDE** and its basic features
+
+### 📘 Key Concepts
+- `this` keyword  
+- `static` keyword  
+- `final` keyword  
+- `instanceof` operator  
+- Eclipse Editor introduction and usage  
+
+### 🧪 Hands-on Practice
+- Solved practice problems based on keywords and operators
+- Implemented examples using Eclipse IDE
+- Committed and pushed the code to the repository
+
+### 🔗 Code Link
+👉 [Day 3 – Keywords & Operators](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordsandoperator)
+
