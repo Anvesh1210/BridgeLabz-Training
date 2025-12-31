@@ -71,3 +71,19 @@
 ### 🔗 Code Link
 👉 [Day 3 – Keywords & Operators](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordsandoperator)
 
+## 📌 Day 4 – Object-Oriented Design Principles  
+**(Date: 30-Dec-2025)**
+
+### ✅ Overview
+- Submitted work on **Object-Oriented Design Principles**
+- Learned and practiced **UML diagrams** for system design
+- Understood how design diagrams help in planning and visualizing applications
+
+### 📘 Topics Covered
+- Class Diagrams  
+- Object Diagrams  
+- Sequence Diagrams  
+
+### 🔗 Code Link
+👉 [Day 4 – OOP Design Principles](java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples)
+
