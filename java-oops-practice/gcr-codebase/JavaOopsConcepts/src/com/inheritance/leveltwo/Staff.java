@@ -1,0 +1,19 @@
+package com.inheritance.leveltwo;
+
+//Staff class extending Person
+public class Staff extends Person {
+    private String department;
+
+    // Constructor to initialize staff details
+    public Staff(String name, int age, String department) {
+        super(name, age);
+        this.department = department;
+    }
+
+    // Displays staff role and department
+    @Override
+    public void displayRole() {
+        System.out.println("Role       : Staff");
+        System.out.println("Department : " + department);
+    }
+}
