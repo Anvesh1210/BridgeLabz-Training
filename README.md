@@ -87,3 +87,25 @@
 ### 🔗 Code Link
 👉 [Day 4 – OOP Design Principles](java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples)
 
+## 📌 Day 5 – Inheritance in Java  
+**(Date: 31-Dec-2025)**
+
+### ✅ Overview
+- Submitted work on **Inheritance** concepts in Java
+- Explored different types of inheritance and their use cases
+- Understood how inheritance supports **code reusability** and **polymorphism**
+
+### 📘 Topics Covered
+- Inheritance  
+- Single Level Inheritance  
+- Multilevel Inheritance  
+- Hierarchical Inheritance  
+- Key features of inheritance  
+- Method overriding  
+- Constructor inheritance in Java  
+- Polymorphism and inheritance  
+- Access modifiers and inheritance  
+
+### 🔗 Code Link
+👉 [Day 5 – Inheritance](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
