@@ -109,3 +109,21 @@
 ### 🔗 Code Link
 👉 [Day 5 – Inheritance](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
+## 📌 Day 6 – Encapsulation, Interface, Abstract Classes & Polymorphism  
+**(Date: 01-Jan-2026)**
+
+### ✅ Overview
+- Learned core **object-oriented concepts** used in real-world applications
+- Understood how encapsulation improves data security and code maintainability
+- Explored abstraction using **interfaces** and **abstract classes**
+- Practiced **polymorphism** to achieve dynamic behavior in Java programs
+
+### 📘 Topics Covered
+- Encapsulation  
+- Polymorphism  
+- Interfaces  
+- Abstract classes  
+
+### 🔗 Code Link
+👉 [Day 6 – OOP Core Concepts](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
+
