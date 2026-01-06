@@ -173,3 +173,22 @@ BridgeLabz-Training/
 
 ### 🔗 Code Link
 👉 [Day 10 – Control Flow Practice](scenario-based-codebase/control-flows)
+
+## 📌 Day 11 – Scenario-Based Java Practice  
+**(Date: 30-Dec-2025)**
+
+### ✅ Overview
+- Solved multiple **scenario-based Java programs**
+- Practiced arrays, loops, and conditional statements
+- Focused on clean and readable code structure
+
+### 🧩 Problems Solved
+- Temperature Logger  
+- Train Reservation Queue  
+- Fitness Challenge Tracker  
+- Movie Ticket Booking App  
+- Library Reminder App  
+
+### 🔗 Code Link
+👉 [Day 11 – Scenario-Based Practice](scenario-based-codebase/control-flows)
+
