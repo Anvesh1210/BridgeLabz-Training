@@ -192,3 +192,20 @@ BridgeLabz-Training/
 ### 🔗 Code Link
 👉 [Day 11 – Scenario-Based Practice](scenario-based-codebase/control-flows)
 
+## 📌 Day 12 – Core Java Scenario-Based Practice  
+**(Date: 31-Dec-2025)**
+
+### ✅ Overview
+- Solved multiple **core Java scenario-based problems**
+- Practiced loops, conditional logic, and user interaction
+- Focused on writing structured and readable console programs
+
+### 🧩 Problems Solved
+- Digital Watch Simulation  
+- Online Quiz Application  
+- Currency Exchange Kiosk  
+- Bus Route Distance Tracker  
+- Festival Lucky Draw  
+
+### 🔗 Code Link
+👉 [Day 12 – Scenario-Based Practice](scenario-based-codebase/control-flows)
