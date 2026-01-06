@@ -235,3 +235,30 @@ BridgeLabz-Training/
 👉 [OOP Design Principles](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples)  
 👉 [Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
+## 📌 Day 13 – Inheritance & Core Java Scenario-Based Practice  
+**(Date: 31-Dec-2025)**
+
+### ✅ Overview
+- Practiced **core Java scenario-based problems**
+- Worked with loops, conditional logic, and user interaction
+- Studied **Inheritance** concepts and their role in code reusability
+- Understood how inheritance supports **polymorphism** in Java
+- Focused on writing structured and readable console programs
+
+### 📘 Topics Covered
+- Inheritance  
+- Method overriding  
+- Constructor inheritance  
+- Polymorphism and inheritance  
+- Access modifiers and inheritance  
+
+### 🧩 Problems Solved
+- Digital Watch Simulation  
+- Online Quiz Application  
+- Currency Exchange Kiosk  
+- Bus Route Distance Tracker  
+- Festival Lucky Draw  
+
+### 🔗 Code Links
+👉 [Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+👉 [Inheritance in Java](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
