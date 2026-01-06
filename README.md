@@ -145,3 +145,31 @@ BridgeLabz-Training/
 
 ### 🔗 Code Link
 👉 [Day 8 – Extras](/core-java-practice/gcr-codebase/extra)
+
+## 📌 Day 9 – Leetcode Practice & Introduction to OOP  
+**(Date: 26-Dec-2025)**
+
+### ✅ Overview
+- Solved **LeetCode** problems to improve logic and optimization
+- Practiced **scenario-based** Java programs for real-world understanding
+- Revised **core Java concepts** through hands-on coding
+- Explored **procedural programming** and understood its limitations
+- Compared **procedural vs object-oriented programming** paradigms
+- Learned why **OOP** is widely used in modern software development
+
+### 📘 Core Concepts Covered
+- Class and Object  
+- Encapsulation and Abstraction  
+- Inheritance  
+- Polymorphism  
+
+### 🧪 Hands-on Practice
+- Implemented and tested Java solutions
+- Solved LeetCode and scenario-based problems
+- Implemented a sample program using the procedural approach
+- Committed and pushed the code to the repository
+
+### 🔗 Code Links
+👉 [Day 9 – Core Java Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)  
+👉 [Day 9 – Introduction to OOP](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
+
