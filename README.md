@@ -127,3 +127,20 @@
 ### 🔗 Code Link
 👉 [Day 6 – OOP Core Concepts](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
 
+## 📌 Day 7 – Scenario-Based OOP Practice  
+**(Date: 02-Jan-2026)**
+
+### ✅ Overview
+- Learned to write **helper methods** for clean and reusable code
+- Practiced solving **real-world, story-based Java problems**
+- Applied core **OOP principles** in scenario-based design
+
+### 🧩 Problems Practiced
+- Hospital Patient Management System  
+- Vehicle Rental Application  
+- University Course Enrollment System  
+- E-Wallet Application  
+- Smart Home Automation System  
+
+### 🔗 Code Link
+👉 [Day 7 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
