@@ -194,4 +194,23 @@ BridgeLabz-Training/
 - Committed and pushed the code to the repository
 
 ### 🔗 Code Link
-👉 [Day 2 – Constructors & Access Modifiers](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
+👉 [Day 10 – Constructors & Access Modifiers](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
+
+## 📌 Day 11 – Java Keywords & Scenario-Based Practice  
+**(Date: 29-Dec-2025)**
+
+### ✅ Overview
+- Solved **scenario-based problems** using Java control flow
+- Practiced conditional statements, loops, and **formatted output**
+- Learned key Java keywords for better code structure
+- Used **Eclipse IDE** for implementing and testing programs
+
+### 📘 Key Concepts
+- Control flow & formatted output  
+- `this`, `static`, `final` keywords  
+- `instanceof` operator  
+
+### 🔗 Code Links
+👉 [Scenario-Based Practice](scenario-based-codebase/control-flows)  
+👉 [Keywords & Operators](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordsandoperator)
+
