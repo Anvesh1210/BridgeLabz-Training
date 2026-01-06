@@ -262,3 +262,24 @@ BridgeLabz-Training/
 ### 🔗 Code Links
 👉 [Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
 👉 [Inheritance in Java](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+## 📌 Day 14 –  Encapsulation, Interface, Abstract Classes, Polymorphism & Scenario-Based Problem Solving approch
+**(Date: 01-Jan-2026)**
+
+### ✅ Overview
+- Learned core **object-oriented concepts** used in real-world applications
+- Understood **encapsulation**, **interfaces**, **abstract classes**, and **polymorphism**
+- Learned a structured approach to solve **scenario-based Java problems**
+- Practiced identifying entities, behaviors, and relationships before coding
+- Focused on breaking complex problems into smaller logical components
+
+### 📘 Topics Covered
+- Encapsulation  
+- Interfaces  
+- Abstract Classes  
+- Polymorphism  
+- Approach to solve oops scenario-based problems  
+
+### 🔗 Code Link
+👉 [Day 14 – Java OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
+
