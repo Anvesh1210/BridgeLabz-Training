@@ -283,3 +283,28 @@ BridgeLabz-Training/
 ### 🔗 Code Link
 👉 [Day 14 – Java OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
 
+## 📌 Day 15 – Linked Lists & Scenario-Based Practice  
+**(Date: 02-Jan-2026)**
+
+### ✅ Overview
+- Studied **Linked Lists** as a core data structure for dynamic data handling
+- Understood node connections and pointer management
+- Compared **Singly**, **Doubly**, and **Circular** linked lists
+- Practiced insertion, deletion, and traversal operations
+- Applied linked list concepts in **scenario-based OOP problems**
+
+### 📘 Concepts Covered
+- Singly Linked List  
+- Doubly Linked List  
+- Circular Linked List  
+
+### 🧩 Scenario-Based Problems Practiced
+- Hospital Patient Management System  
+- Vehicle Rental Application  
+- University Course Enrollment System  
+- E-Wallet Application  
+- Smart Home Automation System  
+
+### 🔗 Code Links
+👉 [Linked Lists Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)  
+👉 [Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
