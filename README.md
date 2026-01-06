@@ -46,7 +46,7 @@ BridgeLabz-Training/
 - Added, committed, and pushed Java files to **GitHub**
 
 ### 🔗 Code Link
-👉 [Day 2 – Basic Java Programs](gcr-codebase/program-prerequisites)
+👉 [Day 2 – Basic Java Programs](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 
 ## 📅 Day 3 – Programming Elements in Java  
 **(Date: 17-Dec-2025)**
@@ -61,7 +61,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository
 
 ### 🔗 Code Link
-👉 [Day 3 – Programming Elements](gcr-codebase/programming-elements)
+👉 [Day 3 – Programming Elements](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ## 📅 Day 4 – Java Control Flows  
 **(Date: 18-Dec-2025)**
@@ -78,7 +78,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository
 
 ### 🔗 Code Link
-👉 [Day 4 – Java Control Flows](gcr-codebase/control-flows)
+👉 [Day 4 – Java Control Flows](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ## 📅 Day 5 – Java Arrays  
 **(Date: 19-Dec-2025)**
@@ -94,7 +94,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository
 
 ### 🔗 Code Link
-👉 [Day 5 – Java Arrays](gcr-codebase/arrays/)
+👉 [Day 5 – Java Arrays](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ## 📅 Day 6 – Java Methods  
 **(Date: 20-Dec-2025)**
@@ -110,7 +110,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository
 
 ### 🔗 Code Link
-👉 [Day 6 – Java Methods](gcr-codebase/methods/)
+👉 [Day 6 – Java Methods](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ## 📅 Day 7 – Java Strings & Exception Handling  
 **(Date: 22-Dec-2025)**
@@ -125,7 +125,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository
 
 ### 🔗 Code Link
-👉 [Day 7 – Java Strings](core-java-practice/core-codebase/strings/)
+👉 [Day 7 – Java Strings](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ## 📌 Day 8 – Extras  
 **(Date: 24-Dec-2025)**
@@ -143,7 +143,7 @@ BridgeLabz-Training/
 - Committed and pushed the code to the repository
 
 ### 🔗 Code Link
-👉 [Day 8 – Extras](/core-java-practice/gcr-codebase/extra)
+👉 [Day 8 – Extras](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
 ## 📌 Day 9 – Leetcode Practice & Introduction to OOP  
 **(Date: 26-Dec-2025)**
@@ -169,8 +169,8 @@ BridgeLabz-Training/
 - Committed and pushed the code to the repository
 
 ### 🔗 Code Links
-👉 [Day 9 – Core Java Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)  
-👉 [Day 9 – Introduction to OOP](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
+👉 [Day 9 – Leet code practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)  
+👉 [Day 9 – Introduction to OOP](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
 
 ## 📌 Day 10 – Constructors & Access Modifiers Best Practices  
 **(Date: 27-Dec-2025)**
@@ -194,7 +194,7 @@ BridgeLabz-Training/
 - Committed and pushed the code to the repository
 
 ### 🔗 Code Link
-👉 [Day 10 – Constructors & Access Modifiers](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
+👉 [Day 10 – Constructors & Access Modifiers](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
 
 ## 📌 Day 11 – Java Keywords & Scenario-Based Practice  
 **(Date: 29-Dec-2025)**
@@ -211,6 +211,27 @@ BridgeLabz-Training/
 - `instanceof` operator  
 
 ### 🔗 Code Links
-👉 [Scenario-Based Practice](scenario-based-codebase/control-flows)  
-👉 [Keywords & Operators](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordsandoperator)
+👉 [Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+👉 [Keywords & Operators](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordsandoperator/levelone)
+
+## 📌 Day 12 – OOP Design Principles & Scenario-Based Java Practice  
+**(Date: 30-Dec-2025)**
+
+### ✅ Overview
+- Studied and submitted **Object-Oriented Design Principles**
+- Practiced **UML diagrams** for system design
+- Solved multiple **scenario-based Java programs**
+- Applied arrays, loops, and conditional statements
+- Focused on clean and readable code structure
+
+### 🧩 Problems Solved
+- Temperature Logger  
+- Train Reservation Queue  
+- Fitness Challenge Tracker  
+- Movie Ticket Booking App  
+- Library Reminder App  
+
+### 🔗 Code Links
+👉 [OOP Design Principles](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples)  
+👉 [Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
