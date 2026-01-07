@@ -48,7 +48,7 @@
 👉 [Day 2 – Constructors & Access Modifiers](/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
 
 ## 📌 Day 3 – this, static, final Keywords & instanceof Operator  
-**(Date: 29-Nov-2025)**
+**(Date: 29-Dec-2025)**
 
 ### ✅ Overview
 - Learned the usage of **this**, **static**, and **final** keywords in Java
@@ -144,3 +144,19 @@
 
 ### 🔗 Code Link
 👉 [Day 7 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
+## 📌 Day 8 – Scenario-Based OOP Practice  
+**(Date: 03-Jan-2026)**
+
+### ✅ Overview
+- Practiced **real-world OOP scenarios** in Java
+- Applied encapsulation, inheritance, interfaces, and polymorphism
+- Focused on clean class design and business logic
+
+### 🧩 Scenarios Practiced
+- CabbyGo – Ride-Hailing Application  
+- MyBank – Customer Account Management System  
+
+### 🔗 Code Link
+👉 [Day 8 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
