@@ -308,3 +308,30 @@ BridgeLabz-Training/
 ### 🔗 Code Links
 👉 [Linked Lists Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)  
 👉 [Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
+## 📌 Day 16 – Stack, Queue, HashMap & Scenario-Based OOP Practice  
+**(Date: 03-Jan-2026)**
+
+### ✅ Overview
+- Learned core **data structures** used in Java
+- Practiced **Stack (LIFO)** and **Queue (FIFO)** operations
+- Studied **HashMap** and basics of **hashing functions**
+- Applied **OOP principles** through real-world, scenario-based problems
+- Focused on clean design and business logic implementation
+
+### 📘 Topics Covered
+- Stack  
+- Queue  
+- HashMap  
+- Hashing Function  
+- Encapsulation, Inheritance, Interfaces, Polymorphism  
+
+### 🧩 Scenarios Practiced
+- CabbyGo – Ride-Hailing Application  
+- MyBank – Customer Account Management System  
+
+### 🔗 Code Links
+👉 [Stack & Queue Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue)  
+👉 [HashMap Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmap)  
+👉 [Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
