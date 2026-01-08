@@ -42,7 +42,7 @@
 👉 [HashMap Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmap)
 
 ## 📌 Day 3 – Sorting Algorithms in Java  
-**(Date: 04-Jan-2026)**
+**(Date: 05-Jan-2026)**
 
 ### ✅ Overview
 - Learned and implemented common **sorting algorithms**
