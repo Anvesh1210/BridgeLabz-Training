@@ -160,3 +160,17 @@
 ### 🔗 Code Link
 👉 [Day 8 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
+## 📌 Day 9 – Scenario-Based OOP Practice  
+**(Date: 05-Jan-2026)**
+
+### ✅ Overview
+- Practiced **real-world OOP scenarios** in Java
+- Applied inheritance, interfaces, and polymorphism
+
+### 🧩 Scenarios Practiced
+- CampusConnect – College Information System  
+- SwiftCart – Grocery Shopping Application  
+
+### 🔗 Code Link
+👉 [Day 9 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
