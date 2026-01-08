@@ -1,5 +1,6 @@
 # BridgeLabz-Training
 
+## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 ---
 
 ## 📌 Day 1 – Git & GitHub Setup  
@@ -145,7 +146,9 @@ BridgeLabz-Training/
 ### 🔗 Code Link
 👉 [Day 8 – Extras](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
-## 📌 Day 9 – Leetcode Practice & Introduction to OOP  
+## 📅 Week 2: Object-Oriented Programming
+
+## 📌 Day 1 – Leetcode Practice & Introduction to OOP  
 **(Date: 26-Dec-2025)**
 
 ### ✅ Overview
@@ -169,10 +172,10 @@ BridgeLabz-Training/
 - Committed and pushed the code to the repository
 
 ### 🔗 Code Links
-👉 [Day 9 – Leet code practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)  
-👉 [Day 9 – Introduction to OOP](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
+👉 [Leet code practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)  
+👉 [Introduction to OOP](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
 
-## 📌 Day 10 – Constructors & Access Modifiers Best Practices  
+## 📌 Day 2 – Constructors & Access Modifiers Best Practices  
 **(Date: 27-Dec-2025)**
 
 ### ✅ Overview
@@ -196,7 +199,7 @@ BridgeLabz-Training/
 ### 🔗 Code Link
 👉 [Day 10 – Constructors & Access Modifiers](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
 
-## 📌 Day 11 – Java Keywords & Scenario-Based Practice  
+## 📌 Day 3 – Java Keywords & Scenario-Based Practice  
 **(Date: 29-Dec-2025)**
 
 ### ✅ Overview
@@ -214,7 +217,7 @@ BridgeLabz-Training/
 👉 [Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
 👉 [Keywords & Operators](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordsandoperator/levelone)
 
-## 📌 Day 12 – OOP Design Principles & Scenario-Based Java Practice  
+## 📌 Day 4 – OOP Design Principles & Scenario-Based Java Practice  
 **(Date: 30-Dec-2025)**
 
 ### ✅ Overview
@@ -235,7 +238,7 @@ BridgeLabz-Training/
 👉 [OOP Design Principles](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples)  
 👉 [Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
-## 📌 Day 13 – Inheritance & Core Java Scenario-Based Practice  
+## 📌 Day 5 – Inheritance & Core Java Scenario-Based Practice  
 **(Date: 31-Dec-2025)**
 
 ### ✅ Overview
@@ -263,7 +266,7 @@ BridgeLabz-Training/
 👉 [Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
 👉 [Inheritance in Java](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
-## 📌 Day 14 –  Encapsulation, Interface, Abstract Classes, Polymorphism & Scenario-Based Problem Solving approch
+## 📌 Day 6 –  Encapsulation, Interface, Abstract Classes, Polymorphism & Scenario-Based Problem Solving approch
 **(Date: 01-Jan-2026)**
 
 ### ✅ Overview
@@ -281,9 +284,11 @@ BridgeLabz-Training/
 - Approach to solve oops scenario-based problems  
 
 ### 🔗 Code Link
-👉 [Day 14 – Java OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
+👉 [Java OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
 
-## 📌 Day 15 – Linked Lists & Scenario-Based Practice  
+## 📅 Week 3: Data Structures 
+
+## 📌 Day 1 – Linked Lists & Scenario-Based Practice  
 **(Date: 02-Jan-2026)**
 
 ### ✅ Overview
@@ -309,7 +314,7 @@ BridgeLabz-Training/
 👉 [Linked Lists Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)  
 👉 [Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
-## 📌 Day 16 – Stack, Queue, HashMap & Scenario-Based OOP Practice  
+## 📌 Day 2 – Stack, Queue, HashMap & Scenario-Based OOP Practice  
 **(Date: 03-Jan-2026)**
 
 ### ✅ Overview
@@ -333,5 +338,25 @@ BridgeLabz-Training/
 ### 🔗 Code Links
 👉 [Stack & Queue Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue)  
 👉 [HashMap Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmap)  
+👉 [Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
+## 📌 Day 3 – Sorting Algorithms & Scenario-Based OOP Practice  
+**(Date: 06-Jan-2026)**
+
+### ✅ Overview
+- Implemented common **sorting algorithms** and understood their working
+- Applied sorting to real-world data scenarios
+- Practiced **advanced OOP concepts** through story-based applications
+- Focused on clean design, encapsulation, and polymorphism
+
+### 🧩 Problems & Scenarios Practiced
+- Sorting Algorithms: Bubble, Insertion, Merge, Quick, Selection, Heap, Counting  
+- EduMentor – Personalized Learning Platform  
+- FitTrack – Personal Fitness Tracker  
+- PetPal – Virtual Pet Care App  
+- EventEase – Event Management Platform  
+
+### 🔗 Code Links
+👉 [Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)  
 👉 [Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
