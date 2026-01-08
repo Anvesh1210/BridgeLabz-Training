@@ -40,3 +40,23 @@
 ### 🔗 Code Link
 👉 [Stack, Queue](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue)
 👉 [HashMap Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmap)
+
+## 📌 Day 3 – Sorting Algorithms in Java  
+**(Date: 04-Jan-2026)**
+
+### ✅ Overview
+- Learned and implemented common **sorting algorithms**
+- Understood how different sorting techniques work internally
+- Practiced applying sorting logic to real-world data scenarios
+
+### 🧩 Problems Practiced
+- Bubble Sort – Student Marks  
+- Insertion Sort – Employee IDs  
+- Merge Sort – Book Prices  
+- Quick Sort – Product Prices  
+- Selection Sort – Exam Scores  
+- Heap Sort – Job Applicant Salaries  
+- Counting Sort – Student Ages  
+
+### 🔗 Code Link
+👉 [Day 3 – Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)
