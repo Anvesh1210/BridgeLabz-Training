@@ -22,3 +22,21 @@
 
 ### 🔗 Code Link
 👉 [Day 1 – Linked Lists](dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
+
+## 📌 Day 2 – Stack, Queue & HashMap  
+**(Date: 03-Jan-2026)**
+
+### ✅ Overview
+- Learned fundamental **data structures** used in Java
+- Understood **Stack (LIFO)** and **Queue (FIFO)** operations
+- Studied **HashMap** and the basics of **hashing functions**
+
+### 📘 Topics Covered
+- Stack  
+- Queue  
+- HashMap  
+- Hashing Function  
+
+### 🔗 Code Link
+👉 [Stack, Queue](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue)
+👉 [HashMap Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmap)
