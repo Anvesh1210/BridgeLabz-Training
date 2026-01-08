@@ -174,3 +174,19 @@
 ### 🔗 Code Link
 👉 [Day 9 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
+## 📌 Day 10 – Scenario-Based OOP Practice  
+**(Date: 06-Jan-2026)**
+
+### ✅ Overview
+- Practiced **advanced, real-world OOP scenarios** in Java
+- Applied inheritance, interfaces, encapsulation, and polymorphism
+- Focused on clean design, access control, and business logic
+
+### 🧩 Scenarios Practiced
+- EduMentor – Personalized Learning Platform  
+- FitTrack – Personal Fitness Tracker  
+- PetPal – Virtual Pet Care App  
+- EventEase – Event Management Platform  
+
+### 🔗 Code Link
+👉 [Day 10 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
