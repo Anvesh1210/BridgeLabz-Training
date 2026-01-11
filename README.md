@@ -77,5 +77,5 @@
 - Linear Search  
 - Binary Search  
 ### 🔗 Code Link
-👉 [Day 3 – Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
+👉 [Day 3 – Strings, File Handling & Searching Algorithms](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
 
