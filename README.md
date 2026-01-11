@@ -351,12 +351,34 @@ BridgeLabz-Training/
 
 ### 🧩 Problems & Scenarios Practiced
 - Sorting Algorithms: Bubble, Insertion, Merge, Quick, Selection, Heap, Counting  
+- CampusConnect – College Information System  
+- SwiftCart – Grocery Shopping Application  
+
+### 🔗 Code Links
+👉 [Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)  
+👉 [Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
+## 📌 Day 4 – Java Strings, File I/O, Searching & Scenario-Based OOP  
+**(Date: 06-Jan-2026)**
+
+### ✅ Overview
+- Practiced mutable strings using **StringBuilder** and **StringBuffer**
+- Worked with basic **file reading** using Java I/O classes
+- Implemented **Linear Search** and **Binary Search**
+- Solved **advanced, real-world OOP scenarios**
+- Applied inheritance, interfaces, encapsulation, and polymorphism
+
+### 📘 Topics Covered
+- StringBuilder, StringBuffer  
+- FileReader, InputStreamReader  
+- Linear Search, Binary Search  
+
+### 🧩 Scenarios Practiced
 - EduMentor – Personalized Learning Platform  
 - FitTrack – Personal Fitness Tracker  
 - PetPal – Virtual Pet Care App  
 - EventEase – Event Management Platform  
 
 ### 🔗 Code Links
-👉 [Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)  
+👉 [Strings, File I/O & Searching Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)  
 👉 [Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
-
