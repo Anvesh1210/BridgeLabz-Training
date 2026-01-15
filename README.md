@@ -60,3 +60,22 @@
 
 ### 🔗 Code Link
 👉 [Day 3 – Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)
+
+## 📌 Day 4 – Strings, File Handling & Searching Algorithms  
+**(Date: 06-Jan-2026)**
+
+### ✅ Overview
+- Learned mutable string handling using **StringBuilder** and **StringBuffer**
+- Practiced basic **file reading** using Java I/O classes
+- Implemented fundamental **searching algorithms** for problem solving
+
+### 📘 Topics Covered
+- StringBuilder  
+- StringBuffer  
+- FileReader  
+- InputStreamReader  
+- Linear Search  
+- Binary Search  
+### 🔗 Code Link
+👉 [Day 3 – Strings, File Handling & Searching Algorithms](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
+
