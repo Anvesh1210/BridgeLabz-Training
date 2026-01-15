@@ -405,3 +405,18 @@ BridgeLabz-Training/
 👉 [Runtime Analysis Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis)  
 👉 [Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
+## 📌 Day 6 – Scenario-Based OOP Applications  
+**(Date: 08-Jan-2026)**
+
+### ✅ Overview
+- Designed **real-world Java applications** using OOP principles
+- Applied encapsulation, inheritance, interfaces, and polymorphism
+- Focused on business logic, data security, and clean class design
+
+### 🧩 Scenarios Practiced
+- MediStore – Pharmacy Inventory & Sales System  
+- TourMate – Travel Itinerary Planner  
+
+### 🔗 Code Link
+👉 [Day 12 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
