@@ -436,3 +436,19 @@ BridgeLabz-Training/
 ### 🔗 Code Link
 👉 [Day 7 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
+## 📌 Day 8 – Scenario-Based Data Structures Practice  
+**(Date: 10-Jan-2026)**
+
+### ✅ Overview
+- Solved **real-world scenario-based problems** using data structures
+- Applied **Linked Lists**, **Stacks**, **Queues**, and **HashMaps**
+- Focused on efficient insertion, deletion, and traversal
+- Designed solutions using clean and modular logic
+
+### 🧩 Scenarios Practiced
+- BookShelf – Library Organizer  
+- BrowserBuddy – Tab History Manager  
+- AmbulanceRoute – Emergency Patient Navigation  
+
+### 🔗 Code Link
+👉 [Day 8 – DSA Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
