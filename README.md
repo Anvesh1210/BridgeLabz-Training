@@ -77,5 +77,21 @@
 - Linear Search  
 - Binary Search  
 ### 🔗 Code Link
-👉 [Day 3 – Strings, File Handling & Searching Algorithms](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
+👉 [Day 4  – Strings, File Handling & Searching Algorithms](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
 
+## 📌 Day 5 – Runtime Analysis & Big-O Notation  
+**(Date: 07-Jan-2026)**
+
+### ✅ Overview
+- Learned **Big-O notation** for analyzing time and space complexity
+- Compared **Linear Search vs Binary Search** on large datasets
+- Analyzed sorting algorithms including **Bubble, Merge, and Quick Sort**
+- Evaluated performance of **String, StringBuilder, and StringBuffer**
+- Studied lookup efficiency using **Array, HashSet, and TreeSet**
+
+### 🧪 Practice Work
+- Performed comparative runtime analysis on different inputs
+- Identified performance bottlenecks and optimized solutions
+
+### 🔗 Code Link
+👉 [Day 5 – Runtime Analysis Practice]([dsa-practice/gcr-codebase/JavaDSAConcepts/src/com](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis))
