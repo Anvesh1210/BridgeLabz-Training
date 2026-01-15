@@ -95,3 +95,20 @@
 
 ### 🔗 Code Link
 👉 [Day 5 – Runtime Analysis Practice]([dsa-practice/gcr-codebase/JavaDSAConcepts/src/com](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis))
+
+## 📌 Day 6 – Scenario-Based Data Structures Practice  
+**(Date: 10-Jan-2026)**
+
+### ✅ Overview
+- Solved **real-world scenario-based problems** using data structures
+- Applied **Linked Lists**, **Stacks**, **Queues**, and **HashMaps**
+- Focused on efficient insertion, deletion, and traversal
+- Designed solutions using clean and modular logic
+
+### 🧩 Scenarios Practiced
+- BookShelf – Library Organizer  
+- BrowserBuddy – Tab History Manager  
+- AmbulanceRoute – Emergency Patient Navigation  
+
+### 🔗 Code Link
+👉 [Day 6 – DSA Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
