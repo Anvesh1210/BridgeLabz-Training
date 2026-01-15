@@ -190,3 +190,20 @@
 
 ### 🔗 Code Link
 👉 [Day 10 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
+## 📌 Day 11 – Scenario-Based OOP Practice  
+**(Date: 07-Jan-2026)**
+
+### ✅ Overview
+- Built **real-world Java applications** using OOP principles
+- Applied encapsulation, inheritance, interfaces, and polymorphism
+- Focused on secure data handling and business logic design
+
+### 🧩 Scenarios Practiced
+- LoanBuddy – Loan Approval Automation  
+- BookBazaar – Digital Bookstore  
+- ParkEase – Smart Parking System  
+
+### 🔗 Code Link
+👉 [Day 11 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
