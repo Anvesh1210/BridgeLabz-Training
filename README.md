@@ -418,5 +418,21 @@ BridgeLabz-Training/
 - TourMate – Travel Itinerary Planner  
 
 ### 🔗 Code Link
-👉 [Day 12 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+👉 [Day 6 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
+## 📌 Day 7 – Scenario-Based OOP Applications  
+**(Date: 09-Jan-2026)**
+
+### ✅ Overview
+- Designed **real-world Java applications** using OOP principles
+- Applied encapsulation, inheritance, interfaces, and polymorphism
+- Focused on clean business logic and controlled data access
+
+### 🧩 Scenarios Practiced
+- Artify – Digital Art Marketplace  
+- FoodLoop – Restaurant Ordering System  
+- SkillForge – Online Learning Portal  
+
+### 🔗 Code Link
+👉 [Day 7 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
