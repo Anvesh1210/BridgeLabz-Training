@@ -382,3 +382,26 @@ BridgeLabz-Training/
 ### 🔗 Code Links
 👉 [Strings, File I/O & Searching Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)  
 👉 [Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
+## 📌 Day 5 – Runtime Analysis & Scenario-Based OOP Practice  
+**(Date: 07-Jan-2026)**
+
+### ✅ Overview
+- Learned **Big-O notation** for time and space complexity analysis
+- Compared **Linear vs Binary Search** on large datasets
+- Analyzed sorting algorithms: **Bubble, Merge, and Quick Sort**
+- Evaluated performance of **String, StringBuilder, and StringBuffer**
+- Studied lookup efficiency using **Array, HashSet, and TreeSet**
+- Built **real-world Java applications** using OOP principles
+- Applied encapsulation, inheritance, interfaces, and polymorphism
+- Focused on secure data handling and business logic design
+
+### 🧩 Scenarios Practiced
+- LoanBuddy – Loan Approval Automation  
+- BookBazaar – Digital Bookstore  
+- ParkEase – Smart Parking System  
+
+### 🔗 Code Links
+👉 [Runtime Analysis Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis)  
+👉 [Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
