@@ -131,3 +131,19 @@
 ### 🔗 Code Link
 👉 [Day 7 – DSA Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
 
+## 📌 Day 8 – DSA Scenario-Based Practice  
+**(Date: 13-Jan-2026)**
+
+### ✅ Overview
+- Practiced real-world problems using core data structures
+- Applied Queue, Linked List, Stack, HashMap, and Functions
+- Focused on data tracking and structured logic
+
+### 🧩 Scenarios Practiced
+- SmartCheckout – Supermarket Billing Queue  
+- ParcelTracker – Delivery Chain Management  
+- ExamProctor – Online Exam Review System  
+
+### 🔗 Code Link
+👉 [Day 8 – DSA Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+
