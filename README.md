@@ -452,3 +452,34 @@ BridgeLabz-Training/
 
 ### 🔗 Code Link
 👉 [Day 8 – DSA Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+
+## 📌 Day 9 – Scenario-Based Practice (DSA & OOP)  
+**(Date: 12-Jan-2026)**
+
+### ✅ Overview
+- Practiced real-world problems using **Data Structures** and **OOP concepts**
+- Implemented linked lists, stacks, queues, and hashmap-based logic
+- Applied inheritance, interfaces, encapsulation, and polymorphism
+
+---
+
+### 🧩 DSA Scenarios Practiced
+- CallCenter – Customer Queue Manager  
+- TrainCompanion – Compartment Navigation System  
+- TextEditor – Undo/Redo Functionality  
+- TrafficManager – Roundabout Vehicle Flow  
+- BookShelf – Library Organizer  
+
+---
+
+### 🧩 OOP Scenarios Practiced
+- HomeNest – Smart Home Device Manager  
+- BudgetWise – Personal Finance Tracker  
+- GameBox – Mobile Game Distribution Platform  
+
+---
+
+### 🔗 Code Links
+👉 [DSA Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+👉 [OOP Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
