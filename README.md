@@ -238,3 +238,20 @@
 ### 🔗 Code Link
 👉 [Day 13 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
+## 📌 Day 14 – Scenario-Based OOP Applications  
+**(Date: 12-Jan-2026)**
+
+### ✅ Overview
+- Practiced real-world Java applications using core OOP principles
+- Applied inheritance, interfaces, encapsulation, and polymorphism
+- Focused on structured design and business logic implementation
+
+### 🧩 Scenarios Practiced
+- HomeNest – Smart Home Device Manager  
+- BudgetWise – Personal Finance Tracker  
+- GameBox – Mobile Game Distribution Platform  
+
+### 🔗 Code Link
+👉 [Day 14 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
+
