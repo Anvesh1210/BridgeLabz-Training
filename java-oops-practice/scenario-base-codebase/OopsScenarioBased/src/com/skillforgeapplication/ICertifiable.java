@@ -1,5 +1,8 @@
 package com.skillforgeapplication;
 
+//interface for certification feature
 public interface ICertifiable {
-	void generateCertificate();
+
+  //method for generating certificate
+  String generateCertificate();
 }
