@@ -483,3 +483,35 @@ BridgeLabz-Training/
 👉 [DSA Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
 👉 [OOP Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
+## 📌 Day 10 – Scenario-Based Practice (DSA & OOP)  
+**(Date: 13-Jan-2026)**
+
+### ✅ Overview
+- Practiced real-world applications using Data Structures and OOP
+- Implemented Queue, Stack, Linked List, HashMap-based logic
+- Designed systems using inheritance, interfaces, and polymorphism
+- Learned basics of annotations and reflection in Java
+
+---
+
+### 🧩 DSA Scenarios Practiced
+- SmartCheckout – Supermarket Billing Queue  
+- ParcelTracker – Delivery Chain Management  
+- ExamProctor – Online Exam Review System  
+
+
+### 🧩 OOP Scenarios Practiced
+- PayXpress – Utility Bill Payment System  
+- EcoWing Bird Sanctuary – Behavior & Tracking System  
+
+
+### 📘 Concepts Applied
+- Linked Lists, Stack, Queue, HashMap  
+- Inheritance & Interfaces  
+- Polymorphism & Encapsulation  
+- Custom Annotations & Reflection  
+
+
+### 🔗 Code Links
+👉 [DSA Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+👉 [OOP Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
