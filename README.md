@@ -254,4 +254,32 @@
 ### 🔗 Code Link
 👉 [Day 14 – Scenario-Based OOP Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
+## 📌 Day 15 – Advanced OOP Scenarios, Bird Sanctuary & Annotations  
+**(Date: 13-Jan-2026)**
+
+### ✅ Overview
+- Practiced complex real-world Java applications using OOP
+- Designed systems using inheritance, interfaces, and polymorphism
+- Implemented a full Bird Sanctuary management system
+- Learned basics of custom annotations and reflection in Java
+
+---
+
+### 🧩 Scenarios Practiced
+- PayXpress – Utility Bill Payment System  
+- EcoWing Bird Sanctuary – Behavior & Tracking System  
+
+---
+### 📘 Concepts Applied
+- Inheritance & Interfaces  
+- Polymorphism with dynamic behavior  
+- Encapsulation and controlled access  
+- ArrayList & structured object storage  
+- Custom Annotations  
+- Java Reflection API  
+
+---
+
+### 🔗 Code Link
+👉 [Day 15 – OOP & Annotation Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
