@@ -112,3 +112,22 @@
 
 ### 🔗 Code Link
 👉 [Day 6 – DSA Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+
+## 📌 Day 7 – Scenario-Based Data Structures Practice  
+**(Date: 12-Jan-2026)**
+
+### ✅ Overview
+- Practiced advanced scenario-based problems using core data structures
+- Implemented Stack, Queue, HashMap, Doubly and Circular Linked Lists
+- Focused on dynamic operations and real-world use cases
+
+### 🧩 Scenarios Practiced
+- CallCenter – Customer Queue Manager  
+- TrainCompanion – Compartment Navigation System  
+- TextEditor – Undo/Redo Functionality  
+- TrafficManager – Roundabout Vehicle Flow  
+- BookShelf – Library Organizer  
+
+### 🔗 Code Link
+👉 [Day 7 – DSA Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+
