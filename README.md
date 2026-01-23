@@ -515,3 +515,41 @@ BridgeLabz-Training/
 ### 🔗 Code Links
 👉 [DSA Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
 👉 [OOP Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
+## 📘 Week 4 – Collections & Generics Practice
+
+---
+
+## 📌 Day 1 – Java Generics & Sorting Algorithms  
+**(Date: 15-Jan-2026)**
+
+### ✅ Overview
+- Learned **Java Generics best practices** for type safety and reusability
+- Worked with generic classes, methods, bounded types, and wildcards
+- Avoided common pitfalls like raw types and type erasure
+- Practiced **scenario-based sorting algorithms** with real-world use cases
+
+---
+
+### 📘 Java Generics Concepts Covered
+- Generic classes and generic methods  
+- Upper bounded (`? extends T`) and lower bounded (`? super T`) wildcards  
+- Bounded type parameters (`<T extends Class>`)  
+- Avoiding raw types and type erasure  
+- Using generics with collections  
+
+---
+
+### 🧩 Sorting Algorithm Scenarios Practiced
+- HospitalQueue – Patient Sorting by Criticality (Bubble Sort)  
+- SmartShelf – Real-Time Book Arrangement (Insertion Sort)  
+- ZipZipMart – Daily Sales Summary Report (Merge Sort)  
+- EventManager – Ticket Price Optimizer (Quick Sort)  
+- ExamCell – Student Rank Generator (Merge Sort)  
+
+---
+
+### 🔗 Code Links
+👉 [Java Generics Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics)  
+👉 [Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+
