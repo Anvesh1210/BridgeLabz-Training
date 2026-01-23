@@ -147,3 +147,27 @@
 ### 🔗 Code Link
 👉 [Day 8 – DSA Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
 
+## 📌 Day 9 – Scenario-Based Sorting Algorithms  
+**(Date: 15-Jan-2026)**
+
+### ✅ Overview
+- Practiced different **sorting algorithms** through real-world scenarios
+- Understood when and why to use specific sorting techniques
+- Focused on performance, stability, and dataset size considerations
+
+### 🧩 Scenarios Practiced
+- HospitalQueue – Patient Sorting by Criticality (Bubble Sort)  
+- SmartShelf – Real-Time Book Arrangement (Insertion Sort)  
+- ZipZipMart – Daily Sales Summary Report (Merge Sort)  
+- EventManager – Ticket Price Optimizer (Quick Sort)  
+- ExamCell – Student Rank Generator (Merge Sort)  
+
+### 📘 Sorting Concepts Applied
+- Bubble Sort (small datasets, in-place)  
+- Insertion Sort (nearly sorted data)  
+- Merge Sort (large datasets, stable sorting)  
+- Quick Sort (fast average-case performance)  
+
+### 🔗 Code Link
+👉 [Day 9 – Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+
