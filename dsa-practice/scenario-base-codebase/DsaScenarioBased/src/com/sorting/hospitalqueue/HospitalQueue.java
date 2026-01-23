@@ -24,8 +24,8 @@ public class HospitalQueue {
 			for (int j = 0; j < n - i - 1; j++) {
 				if (patientList.get(j).getCriticality() < patientList.get(j + 1).getCriticality()) {
 					Patient temp = patientList.get(j);
-					patientList.add(j, patientList.get(j + 1));
-					patientList.add(j + 1, temp);
+					patientList.set(j, patientList.get(j + 1));
+					patientList.set(j + 1, temp);
 				}
 			}
 		}
