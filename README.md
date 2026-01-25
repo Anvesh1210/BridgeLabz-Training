@@ -171,3 +171,17 @@
 ### 🔗 Code Link
 👉 [Day 9 – Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
 
+## 📌 Day 10 – Scenario-Based Sorting Practice  
+**(Date: 16-Jan-2026)**
+
+### ✅ Overview
+- Practiced sorting algorithms using real-world scenarios
+- Selected appropriate algorithms based on data size and behavior
+
+### 🧩 Scenarios Practiced
+- RoboWarehouse – Shelf Loading Robot (Insertion Sort)  
+- CinemaHouse – Movie Time Sorting (Bubble Sort)  
+- CropMonitor – Sensor Data Ordering (Quick Sort)  
+
+### 🔗 Code Link
+👉 [Day 10 – Sorting Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
