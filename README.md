@@ -185,3 +185,20 @@
 
 ### 🔗 Code Link
 👉 [Day 10 – Sorting Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+
+## 📌 Day 11 – Scenario-Based Sorting Algorithms  
+**(Date: 17-Jan-2026)**
+
+### ✅ Overview
+- Practiced **sorting algorithms** through real-world, story-driven scenarios
+- Focused on choosing the right algorithm based on data size and insertion pattern
+- Applied Bubble Sort, Insertion Sort, and Merge Sort effectively
+
+### 🧩 Scenarios Practiced
+- ArtExpo – Sort Artists by Registration Time (Insertion Sort)  
+- FleetManager – Vehicle Maintenance Scheduler (Merge Sort)  
+- IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)  
+- SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)  
+
+### 🔗 Code Link
+👉 [Day 11 – Sorting Scenario Practice](dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)
