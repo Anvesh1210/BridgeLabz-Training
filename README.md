@@ -1,4 +1,4 @@
-## 📅 Week 3: Data Structures – Linked Lists
+## 📅 Week 3: Data Structures
 
 ---
 
@@ -219,3 +219,18 @@
 ### 🔗 Code Link
 👉 [Day 12 – Sorting Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
 
+## 📌 Day 13 – DSA Scenario-Based Sorting Practice  
+**(Date: 20-Jan-2026)**
+
+### ✅ Overview
+- Practiced **sorting algorithms** using real-world scenarios
+- Selected appropriate sorting techniques based on data size and performance
+- Focused on efficiency and stability for large and dynamic datasets
+
+### 🧩 Scenarios Practiced
+- EduResults – Rank Sheet Generator (Merge Sort)  
+- FlashDealz – Product Sorting by Discount (Quick Sort)  
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)  
+
+### 🔗 Code Link
+👉 [Day 13 – Sorting Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
