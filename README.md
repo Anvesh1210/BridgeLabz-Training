@@ -145,7 +145,7 @@
 - ExamProctor – Online Exam Review System  
 
 ### 🔗 Code Link
-👉 [Day 8 – DSA Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+👉 [Day 8 – DSA Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
 
 ## 📌 Day 9 – Scenario-Based Sorting Algorithms  
 **(Date: 15-Jan-2026)**
@@ -169,7 +169,7 @@
 - Quick Sort (fast average-case performance)  
 
 ### 🔗 Code Link
-👉 [Day 9 – Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+👉 [Day 9 – Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
 
 ## 📌 Day 10 – Scenario-Based Sorting Practice  
 **(Date: 16-Jan-2026)**
@@ -184,7 +184,7 @@
 - CropMonitor – Sensor Data Ordering (Quick Sort)  
 
 ### 🔗 Code Link
-👉 [Day 10 – Sorting Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+👉 [Day 10 – Sorting Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
 
 ## 📌 Day 11 – Scenario-Based Sorting Algorithms  
 **(Date: 17-Jan-2026)**
@@ -201,4 +201,21 @@
 - SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)  
 
 ### 🔗 Code Link
-👉 [Day 11 – Sorting Scenario Practice](dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)
+👉 [Day 11 – Sorting Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
+
+## 📌 Day 12 – DSA Scenario-Based Sorting Practice  
+**(Date: 19-Jan-2026)**
+
+### ✅ Overview
+- Practiced **sorting algorithms** using real-world DSA scenarios
+- Focused on selecting algorithms based on dataset size and performance needs
+- Applied sorting techniques for large-scale and real-time data
+
+### 🧩 Scenarios Practiced
+- EduResults – Rank Sheet Generator (Merge Sort)  
+- FlashDealz – Product Sorting by Discount (Quick Sort)  
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)  
+
+### 🔗 Code Link
+👉 [Day 12 – Sorting Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
+
