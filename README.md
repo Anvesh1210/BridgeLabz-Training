@@ -551,5 +551,22 @@ BridgeLabz-Training/
 
 ### 🔗 Code Links
 👉 [Java Generics Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics)  
-👉 [Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+👉 [Sorting Algorithms Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
 
+## 📌 Day 2 – Collections Framework & Sorting Practice  
+**(Date: 16-Jan-2026)**
+
+### ✅ Overview
+- Learned the **Java Collections Framework** and its core interfaces
+- Understood List, Set, Queue, Deque, and Map implementations
+- Practiced **scenario-based sorting algorithms**
+- Chose appropriate sorting techniques based on data size
+
+### 🧩 Sorting Scenarios
+- RoboWarehouse – Insertion Sort  
+- CinemaHouse – Bubble Sort  
+- CropMonitor – Quick Sort  
+
+### 🔗 Code Links
+👉 [Collections Practice](collections-practice/gcr-codebase/JavaCollectionsConcepts/)  
+👉 [Sorting Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
