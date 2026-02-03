@@ -95,5 +95,27 @@
 
 ### 🔗 Code Link
 👉 [Day 4 – Exception Handling Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exception)
-``
+
+## 📌 Day 5 – Regex & JUnit Testing in Java  
+**(Date: 21-Jan-2026)**
+
+### ✅ Overview
+- Learned **Regular Expressions (Regex)** for pattern matching
+- Practiced common validation patterns like email, password, and phone number
+- Worked with **Java Regex API** using Pattern and Matcher
+- Introduced to **JUnit Framework** for unit testing
+- Wrote basic test cases using annotations and assertions
+
+### 📘 Topics Covered
+- Regex: MetaCharacters and Quantifiers  
+- Common patterns: Email, Password, Phone Number  
+- Java Regex API: Pattern, Matcher  
+- Regex methods: find(), matches(), replaceAll()  
+- JUnit basics and annotations  
+- Writing test cases and assertions  
+
+### 🔗 Code Links
+👉 [Regex Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/regex)  
+👉 [JUnit Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/junit)
+
 
