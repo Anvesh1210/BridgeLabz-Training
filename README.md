@@ -45,5 +45,33 @@
 - Comparison of implementations  
 
 ### 🔗 Code Link
-👉 [Day 2 – Collections Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections)
+👉 [Day 2 – Collections Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections)4
+
+## 📌 Day 3 – Java I/O Streams & File Handling  
+**(Date: 19-Jan-2026)**
+
+### ✅ Overview
+- Studied **Java I/O Streams** for reading and writing data
+- Understood difference between **Byte Streams** and **Character Streams**
+- Learned how to work with files, objects, and in-memory data
+- Focused on performance, encoding, and best practices
+
+### 📘 Topics Covered
+- File Streams: `FileInputStream`, `FileOutputStream`  
+- Character Streams: `FileReader`, `FileWriter`  
+- Object Streams: `ObjectInputStream`, `ObjectOutputStream`  
+- ByteArray Streams: `ByteArrayInputStream`, `ByteArrayOutputStream`  
+- Buffered Streams: `BufferedInputStream`, `BufferedOutputStream`  
+- BufferedReader & BufferedWriter  
+- Reader & Writer bridges: `InputStreamReader`, `OutputStreamWriter`  
+
+### 🧪 Practice Work
+- File copy using byte and character streams  
+- Object serialization and deserialization  
+- In-memory stream processing  
+- Used buffering for performance optimization  
+
+### 🔗 Code Link
+👉 [Day 3 – Java I/O Streams Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/streams)
+
 
