@@ -570,3 +570,36 @@ BridgeLabz-Training/
 ### 🔗 Code Links
 👉 [Collections Practice](collections-practice/gcr-codebase/JavaCollectionsConcepts/)  
 👉 [Sorting Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
+
+## 📌 Day 3 – OOP & Scenario-Based Sorting Practice  
+**(Date: 17-Jan-2026)**
+
+### ✅ Overview
+- Practiced real-world **OOP scenario-based problems**
+- Applied classes, objects, constructors, and encapsulation
+- Modeled systems using composition and interfaces
+- Practiced **sorting algorithms** using story-driven scenarios
+- Focused on choosing the right algorithm based on data size and behavior
+
+### 🧩 OOP Scenarios Practiced
+- GeoMeasure – Line Comparison System  
+- Bag-n-Ball – Toy Storage Organizer  
+
+### 🧩 Sorting Scenarios Practiced
+- ArtExpo – Sort Artists by Registration Time (Insertion Sort)  
+- FleetManager – Vehicle Maintenance Scheduler (Merge Sort)  
+- IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)  
+- SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)  
+
+### 📘 Concepts Applied
+- Classes and Objects  
+- Constructors and this keyword  
+- Encapsulation and getters/setters  
+- Composition (has-a relationship)  
+- Interfaces  
+- Bubble, Insertion, and Merge Sort  
+
+### 🔗 Code Links
+👉 [OOP Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)  
+👉 [Sorting Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
+
