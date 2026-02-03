@@ -283,3 +283,27 @@
 ### 🔗 Code Link
 👉 [Day 15 – OOP & Annotation Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
+## 📌 Day 17 – OOP Scenario-Based Practice  
+**(Date: 17-Jan-2026)**
+
+### ✅ Overview
+- Practiced real-world **object-oriented programming** problems
+- Applied classes, objects, constructors, and encapsulation
+- Focused on method design and clean object interaction
+- Modeled real-life systems using composition and interfaces
+
+### 🧩 Scenarios Practiced
+- GeoMeasure – Line Comparison System  
+- Bag-n-Ball – Toy Storage Organizer  
+
+### 📘 Concepts Applied
+- Classes and Objects  
+- Constructors and this keyword  
+- Encapsulation with getters/setters  
+- Method creation and logic  
+- Composition (has-a relationship)  
+- Interfaces (bonus implementation)  
+
+### 🔗 Code Link
+👉 [Day 17 – OOP Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
+
