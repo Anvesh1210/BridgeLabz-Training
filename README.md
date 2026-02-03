@@ -74,4 +74,26 @@
 ### 🔗 Code Link
 👉 [Day 3 – Java I/O Streams Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/streams)
 
+## 📌 Day 4 – Exception Handling in Java  
+**(Date: 20-Jan-2026)**
+
+### ✅ Overview
+- Learned different **types of exceptions** in Java
+- Understood how to handle runtime and compile-time errors
+- Practiced creating and using **custom exceptions**
+- Focused on writing safe and robust code
+
+### 📘 Topics Covered
+- Checked and Unchecked Exceptions  
+- try-catch blocks  
+- try-catch-finally blocks  
+- try-with-resources  
+- throw and throws  
+- Creating custom exceptions  
+- Extending the Exception class  
+- Defining constructors for exceptions  
+
+### 🔗 Code Link
+👉 [Day 4 – Exception Handling Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exception)
+``
 
