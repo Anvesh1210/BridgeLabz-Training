@@ -666,3 +666,33 @@ BridgeLabz-Training/
 ### 🔗 Code Links
 👉 [Exception Handling Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exception)  
 👉 [DSA Sorting Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
+
+## 📌 Day 6 – Regex & JUnit Testing with DSA Practice  
+**(Date: 21-Jan-2026)**
+
+### ✅ Overview
+- Learned **Regular Expressions (Regex)** for pattern matching and validation
+- Practiced common validation patterns like email, password, and phone number
+- Worked with **Java Regex API** using Pattern and Matcher
+- Introduced to **JUnit Framework** for unit testing
+- Wrote basic test cases using annotations and assertions
+- Practiced **DSA scenario-based problems** as additional learning
+
+### 📘 Regex & JUnit Topics
+- Regex meta characters and quantifiers  
+- Common patterns: Email, Password, Phone Number  
+- Java Regex API: Pattern and Matcher  
+- Regex methods: find(), matches(), replaceAll()  
+- JUnit basics, annotations, and assertions  
+
+### 📊 DSA Scenario-Based Questions
+- TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)  
+- MedWarehouse – Sorting Medicines by Expiry (Merge Sort)  
+- University Digital Record System (BST Operations)  
+- E-Commerce Product Inventory (BST using SKU)  
+- Music App – Organize Songs by Track ID (BST Traversal)  
+
+### 🔗 Code Links
+👉 [Regex Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/regex)  
+👉 [JUnit Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/junit)  
+👉 [DSA Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
