@@ -234,3 +234,24 @@
 
 ### 🔗 Code Link
 👉 [Day 13 – Sorting Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
+
+## 📌 Day 14 – DSA Sorting & Binary Search Tree Practice  
+**(Date: 21-Jan-2026)**
+
+### ✅ Overview
+- Practiced **DSA sorting algorithms** using real-world problems
+- Implemented **Binary Search Tree (BST)** operations
+- Focused on efficient searching, sorting, and structured data storage
+
+### 📊 Sorting Questions
+- TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)  
+- MedWarehouse – Sorting Medicines by Expiry (Merge Sort)  
+
+### 🌳 Binary Search Tree (BST) Questions
+- University Digital Record System (BST Operations)  
+- E-Commerce Product Inventory (BST using SKU)  
+- Music App – Organize Songs by Track ID (BST Traversal)  
+
+### 🔗 Code Link
+👉 [Day 14 – DSA Sorting & BST Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+
