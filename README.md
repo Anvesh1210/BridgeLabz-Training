@@ -307,3 +307,29 @@
 ### 🔗 Code Link
 👉 [Day 17 – OOP Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
+## 📌 Day 18 – Address Book System (OOP Practice)  
+**(Date: 19-Jan-2026)**
+
+### ✅ Overview
+- Designed a simple **Address Book application** using core OOP principles
+- Focused on contact management with validation and search features
+- Used collections to store and manage contact data efficiently
+
+### 🧩 Scenario Practiced
+- Address Book System – Contact Management Application
+
+### 📘 Concepts Applied
+- Classes and Objects  
+- Constructors  
+- Encapsulation and Access Modifiers  
+- Collections (`ArrayList`)  
+- Optional Composition (Address as a separate class)  
+
+### 🛠️ Functionalities Implemented
+- Add, edit, delete contacts  
+- Search contacts by city or state  
+- Display contacts sorted alphabetically  
+- Duplicate contact validation  
+
+### 🔗 Code Link
+👉 [Day 18 – Address Book System](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
