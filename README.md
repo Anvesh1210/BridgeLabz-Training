@@ -696,3 +696,40 @@ BridgeLabz-Training/
 👉 [Regex Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/regex)  
 👉 [JUnit Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/junit)  
 👉 [DSA Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+
+## 📌 Day 7 – Annotations, Reflection & AVL Tree Practice  
+**(Date: 22-Jan-2026)**
+
+### ✅ Overview
+- Learned **Java Annotations** and their role in modern applications
+- Created and used **custom annotations**
+- Explored **Reflection API** for runtime class inspection
+- Understood how **Annotations and Reflection** work together
+- Learned and implemented **AVL Tree** (self-balancing Binary Search Tree)
+- Practiced insertion, deletion, and ordered traversal
+- Focused on maintaining balance using rotations
+
+### 📘 Annotations & Reflection Topics
+
+#### 🔹 Annotations
+- Introduction to Annotations  
+- Common Built-in Annotations  
+- Creating Custom Annotations  
+- Advanced Custom Annotations  
+- Real-World Use Cases  
+- Annotation Processing Tools  
+
+#### 🔹 Reflection
+- Understanding Reflection  
+- Using Reflection in Java  
+- Annotations and Reflection  
+
+### 🌳 AVL Tree Questions
+- Gaming App – Real-Time Leaderboard (AVL Tree Operations)  
+- Online Ticket Booking – Events Sorted by Time (AVL Tree)  
+- Hospital Queue Management (AVL Tree by Arrival Time)  
+
+### 🔗 Code Links
+👉 [Annotations Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotation)  
+👉 [Reflection Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)  
+👉 [AVL Tree Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
