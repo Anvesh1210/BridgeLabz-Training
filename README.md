@@ -255,3 +255,20 @@
 ### 🔗 Code Link
 👉 [Day 14 – DSA Sorting & BST Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
 
+## 📌 Day 15 – AVL Tree Practice  
+**(Date: 22-Jan-2026)**
+
+### ✅ Overview
+- Learned and implemented **AVL Tree** (self-balancing Binary Search Tree)
+- Focused on maintaining balance using rotations
+- Practiced insertion, deletion, and ordered traversal
+- Applied AVL Trees to real-time and time-sensitive data scenarios
+
+### 🌳 AVL Tree Questions
+- Gaming App – Real-Time Leaderboard (AVL Tree Operations)  
+- Online Ticket Booking – Events Sorted by Time (AVL Tree)  
+- Hospital Queue Management (AVL Tree by Arrival Time)  
+
+### 🔗 Code Link
+👉 [Day 15 – AVL Tree Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+
