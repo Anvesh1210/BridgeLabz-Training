@@ -568,7 +568,7 @@ BridgeLabz-Training/
 - CropMonitor – Quick Sort  
 
 ### 🔗 Code Links
-👉 [Collections Practice](collections-practice/gcr-codebase/JavaCollectionsConcepts/)  
+👉 [Collections Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections)  
 👉 [Sorting Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
 
 ## 📌 Day 3 – OOP & Scenario-Based Sorting Practice  
@@ -602,4 +602,39 @@ BridgeLabz-Training/
 ### 🔗 Code Links
 👉 [OOP Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)  
 👉 [Sorting Scenario Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
+
+## 📌 Day 4 – Java I/O Streams, DSA & OOP Practice  
+**(Date: 19-Jan-2026)**
+
+### ✅ Overview
+- Learned **Java I/O Streams** for file and data handling
+- Understood **byte streams vs character streams**
+- Practiced **DSA sorting algorithms** using real-world scenarios
+- Built an **OOP-based application** using core Java concepts
+
+### 📘 Java I/O Streams Practiced
+- FileInputStream & FileOutputStream  
+- FileReader & FileWriter  
+- BufferedInputStream & BufferedOutputStream  
+- BufferedReader & BufferedWriter  
+- ObjectInputStream & ObjectOutputStream  
+- ByteArrayInputStream & ByteArrayOutputStream  
+- InputStreamReader & OutputStreamWriter  
+
+### 📊 DSA Sorting Scenarios
+- RoboWarehouse – Insertion Sort  
+- CinemaHouse – Bubble Sort  
+- CropMonitor – Quick Sort  
+
+### 📇 OOP Practice
+- Address Book System – Contact Management Application  
+- Add, edit, delete contacts  
+- Search contacts by city or state  
+- Display contacts sorted alphabetically  
+- Duplicate contact validation  
+
+### 🔗 Code Links
+👉 [Java I/O Streams Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/streams)  
+👉 [DSA Sorting Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)  
+👉 [OOP Address Book System](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
