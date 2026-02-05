@@ -638,3 +638,31 @@ BridgeLabz-Training/
 👉 [DSA Sorting Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)  
 👉 [OOP Address Book System](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-base-codebase/OopsScenarioBased/src/com)
 
+## 📌 Day 5 – Exception Handling & DSA Sorting Practice  
+**(Date: 20-Jan-2026)**
+
+### ✅ Overview
+- Learned **Exception Handling in Java** for writing safe and robust code
+- Understood how to handle **runtime and compile-time errors**
+- Practiced creating and using **custom exceptions**
+- Solved **DSA sorting problems** using real-world scenarios
+- Selected sorting algorithms based on **performance and data size**
+
+### 📘 Exception Handling Topics Covered
+- Checked and Unchecked Exceptions  
+- try-catch blocks  
+- try-catch-finally blocks  
+- try-with-resources  
+- throw and throws  
+- Creating custom exceptions  
+- Extending the Exception class  
+- Defining constructors for exceptions  
+
+### 📊 DSA Sorting Scenarios
+- EduResults – Rank Sheet Generator (Merge Sort)  
+- FlashDealz – Product Sorting by Discount (Quick Sort)  
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)  
+
+### 🔗 Code Links
+👉 [Exception Handling Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exception)  
+👉 [DSA Sorting Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com/sorting)
