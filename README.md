@@ -118,4 +118,32 @@
 👉 [Regex Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/regex)  
 👉 [JUnit Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/junit)
 
+## 📌 Day 6 – Annotations & Reflection in Java  
+**(Date: 22-Jan-2026)**
+
+### ✅ Overview
+- Learned **Java Annotations** and their role in modern applications
+- Created and used **custom annotations**
+- Explored **Reflection API** for runtime class inspection
+- Understood how **Annotations and Reflection** work together
+
+### 📘 Topics Covered
+
+#### 🔹 Annotations
+- Introduction to Annotations  
+- Common Built-in Annotations  
+- Creating Custom Annotations  
+- Advanced Custom Annotations  
+- Real-World Use Cases  
+- Annotation Processing Tools  
+
+#### 🔹 Reflection
+- Understanding Reflection  
+- Using Reflection in Java  
+- Annotations and Reflection  
+
+### 🔗 Code Links
+👉 [Annotations Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotation)  
+👉 [Reflection Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)
+
 
