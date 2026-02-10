@@ -146,4 +146,32 @@
 👉 [Annotations Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotation)  
 👉 [Reflection Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)
 
+## 📌 Day 7 – Scenario-Based Practice: Collections, I/O, Generics & Regex  
+**(Date: 23-Jan-2026)**
+
+### ✅ Overview
+- Solved **real-world scenario-based problems** using Core Java concepts
+- Applied **Collections Framework** for data organization and processing
+- Used **Generics** for type-safe and reusable code
+- Worked with **Java I/O Streams** for file handling
+- Used **Regex** for pattern matching and validation
+- Applied exception handling for robust applications
+
+### 📂 Scenario-Based Questions
+- ResumeAnalyzer – Smart Resume Filtering System  
+- TravelLog – Trip Organizer for Backpackers  
+- FeedbackGuru – Smart Survey Analyzer  
+- CodeRepoCleaner – Java File Scanner and Organizer  
+- ExamScanner – Digital Answer Sheet Validator  
+
+### 🎯 Concepts Applied
+- Java Collections (`List`, `Set`, `Map`, `PriorityQueue`)  
+- Generics  
+- File Handling & I/O Streams  
+- Regular Expressions  
+- Exception Handling  
+- Stream API for filtering and sorting  
+
+### 🔗 Code Link
+👉 [Day 7 – Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-base-codebase/CollectionsScenarioBased/src)
 
