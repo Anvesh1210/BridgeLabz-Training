@@ -782,3 +782,55 @@ BridgeLabz-Training/
 ### 🔗 Code Links
 👉 [CSV Data Handling Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/JavaIOStreamConcepts/src/com/csvdatahandling)  
 👉 [Scenario-Based Java Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-base-codebase/CollectionsScenarioBased/src)
+
+## 📌 Day 2 – JSON Handling & Scenario-Based Java Practice  
+**(Date: 24-Jan-2026)**
+
+### ✅ Overview
+- Learned **JSON (JavaScript Object Notation)** for data exchange
+- Understood JSON structure: objects, arrays, and nested data
+- Created JSON using **org.json**, **Gson**, and **Jackson**
+- Read, wrote, and parsed JSON files in Java
+- Performed **JSON Schema validation**
+- Solved **real-world scenario-based problems** using I/O, Collections, Generics, and Regex
+- Focused on building **robust and scalable Java solutions**
+
+---
+
+### 📘 Topics Covered
+
+#### 🔹 JSON Handling
+- JSON syntax and key-value structure  
+- Data types: String, Number, Boolean, Array, Object, null  
+- Nested JSON objects and arrays  
+- Creating JSON using org.json, Gson, and Jackson  
+- Reading JSON into Java POJOs  
+- Writing Java objects to JSON files  
+- Dynamic JSON parsing using `JsonNode`  
+- JSON Schema validation  
+
+#### 🔹 Scenario-Based Java Practice
+- MedInventory – Smart Hospital Inventory Tracker  
+- ChatLogParser – Messaging Pattern Analyzer  
+- SongVault – Personal Music Library Manager  
+- ExamResultUploader – Bulk Marks Processing  
+- DealTracker – E-Commerce Discount Validator  
+
+---
+
+### 🎯 Key Concepts
+- Java I/O Streams  
+- JSON Object & JSON Array  
+- ObjectMapper usage  
+- Collections (`List`, `Set`, `Map`, `TreeMap`, `PriorityQueue`)  
+- Generics and Interfaces  
+- Regular Expressions  
+- Custom Exception Handling  
+- Java Streams and Comparators  
+
+---
+
+### 🔗 Code Links
+👉 [JSON Handling Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/JavaIOStreamConcepts/src/com/json)  
+👉 [Scenario-Based Java Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-base-codebase/CollectionsScenarioBased/src)
+
