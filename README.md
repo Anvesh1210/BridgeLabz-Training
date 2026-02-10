@@ -175,3 +175,32 @@
 ### 🔗 Code Link
 👉 [Day 7 – Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-base-codebase/CollectionsScenarioBased/src)
 
+## 📌 Day 8 – Scenario-Based Practice: I/O, Collections, Generics & Regex  
+**(Date: 24-Jan-2026)**
+
+### ✅ Overview
+- Solved advanced **real-world Java problems** using Core Java concepts
+- Applied **Java I/O Streams** for reading CSV and text files
+- Used **Regex** for validation and data extraction
+- Leveraged **Collections Framework** for grouping, sorting, and filtering
+- Used **Generics** for flexible and reusable design
+- Implemented **custom exception handling**
+
+### 📂 Scenario-Based Questions
+- MedInventory – Smart Hospital Inventory Tracker  
+- ChatLogParser – Messaging Pattern Analyzer  
+- SongVault – Personal Music Library Manager  
+- ExamResultUploader – Bulk Marks Processing  
+- DealTracker – E-Commerce Discount Validator  
+
+### 🎯 Concepts Applied
+- Java I/O Streams (`BufferedReader`, `FileReader`, `FileInputStream`)  
+- Collections (`List`, `Set`, `Map`, `TreeMap`, `PriorityQueue`)  
+- Generics and Interfaces  
+- Regular Expressions  
+- Custom Exceptions  
+- Java Streams and Comparators  
+
+### 🔗 Code Link
+👉 [Day 8 – Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-base-codebase/CollectionsScenarioBased/src)
+
