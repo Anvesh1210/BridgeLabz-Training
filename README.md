@@ -88,3 +88,28 @@
 ### 🔗 Code Link
 👉 [JSON Handling Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/JavaIOStreamConcepts/src/com/json)
 
+## 📌 Day 3 – Scenario-Based Practice: Annotations, Reflection, CSV & JSON  
+**(Date: 27-Jan-2026)**
+
+### ✅ Overview
+- Solved **real-world scenario-based problems** using advanced Core Java concepts
+- Applied **Custom Annotations** and **Reflection** for metadata processing
+- Worked with **CSV and JSON** for data ingestion and export
+- Focused on validation, automation, and structured data generation
+
+### 📂 Scenario-Based Questions
+- HealthCheckPro – API Metadata Validator (Annotations + Reflection)  
+- MarkMate – Student Marksheet Generator (CSV + JSON)  
+- EventTracker – Auto Audit System (Annotations + Reflection + JSON)  
+
+### 🎯 Concepts Applied
+- Custom Annotations  
+- Java Reflection API  
+- CSV File Handling  
+- JSON Creation and Export  
+- Exception Handling  
+
+### 🔗 Code Link
+👉 [Day 3 – Scenario-Based Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/scenario-base-codebase/CollectionsScenarioBased/src)
+
+
