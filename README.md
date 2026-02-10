@@ -733,3 +733,52 @@ BridgeLabz-Training/
 👉 [Annotations Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotation)  
 👉 [Reflection Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)  
 👉 [AVL Tree Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-base-codebase/DsaScenarioBased/src/com)
+
+
+## 📘 Week 5 – Java IO Stream Practice
+
+---
+## 📌 Day 1 – CSV Data Handling & Scenario-Based Java Practice  
+**(Date: 23-Jan-2026)**
+
+### ✅ Overview
+- Learned **CSV (Comma-Separated Values)** file handling using **Java I/O Streams**
+- Read, wrote, and processed CSV files using **Core Java** and **OpenCSV**
+- Parsed CSV data into **Java Objects**
+- Applied **Regex-based validation**
+- Solved **real-world scenario-based problems** using Collections, Generics, I/O Streams, and Regex
+- Focused on writing **robust and reusable Java code**
+
+---
+
+### 📘 Topics Covered
+
+#### 🔹 CSV Data Handling
+- Introduction to CSV format  
+- Reading CSV files using `BufferedReader`  
+- Writing CSV files using `BufferedWriter`  
+- Parsing CSV data into Java Objects  
+- Data validation using Regex  
+
+#### 🔹 Scenario-Based Java Practice
+- ResumeAnalyzer – Smart Resume Filtering System  
+- TravelLog – Trip Organizer for Backpackers  
+- FeedbackGuru – Smart Survey Analyzer  
+- CodeRepoCleaner – Java File Scanner and Organizer  
+- ExamScanner – Digital Answer Sheet Validator  
+
+---
+
+### 🎯 Key Concepts
+- Java I/O Streams  
+- Collections (`List`, `Set`, `Map`, `PriorityQueue`)  
+- Generics  
+- Regular Expressions  
+- Exception Handling  
+- Stream API for filtering and sorting  
+
+---
+
+### 🔗 Code Links
+👉 [CSV Data Handling Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/JavaIOStreamConcepts/src/com/csvdatahandling)  
+👉 [Scenario-Based Java Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-base-codebase/CollectionsScenarioBased/src)
