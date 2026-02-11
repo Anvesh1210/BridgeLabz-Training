@@ -834,3 +834,69 @@ BridgeLabz-Training/
 👉 [JSON Handling Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/JavaIOStreamConcepts/src/com/json)  
 👉 [Scenario-Based Java Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-base-codebase/CollectionsScenarioBased/src)
 
+## 📘 Week 6 – Java 8 and Its Features  
+
+---
+
+## 📌 Day 1 – Java 8 Features & Scenario-Based Practice  
+**(Date: 27-Jan-2026)**
+
+### ✅ Overview
+- Learned core **Java 8 functional programming features**
+- Understood **Lambda Expressions** and their syntax variations
+- Explored **Functional Interfaces** and predefined interfaces
+- Practiced writing clean and maintainable functional-style code
+- Solved **real-world scenario-based problems** using Annotations, Reflection, CSV, and JSON
+- Focused on structured data processing and metadata validation
+
+---
+
+## 📘 Topics Covered
+
+### 🔹 Lambda Expressions
+- Syntax forms (no parameter, single parameter, multiple parameters)
+- Target typing & type inference
+- Closures and effectively final variables
+- Difference between lambda and anonymous class
+- Practical use cases with `Runnable`, `Comparator`, `Predicate`
+
+---
+
+### 🔹 Functional Interfaces
+- Definition (Single Abstract Method – SAM)
+- `@FunctionalInterface` annotation
+- Creating custom functional interfaces
+- Predefined interfaces:
+  - `Consumer<T>`
+  - `Supplier<T>`
+  - `Function<T,R>`
+  - `Predicate<T>`
+  - `Comparator<T>`
+  - `Runnable`
+- SAM conversion and lambda usage
+
+---
+
+### 🔹 Scenario-Based Practice
+- HealthCheckPro – API Metadata Validator (Annotations + Reflection)  
+- MarkMate – Student Marksheet Generator (CSV + JSON)  
+- EventTracker – Auto Audit System (Annotations + Reflection + JSON)  
+
+---
+
+### 🎯 Key Concepts
+- Functional Programming in Java
+- Clean and concise lambda implementations
+- Contract-based interface design
+- Custom Annotations and Reflection usage
+- CSV and JSON data handling
+- Exception handling for robust systems
+
+---
+
+### 🔗 Code Links
+👉 [Lambda Expressions Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com)  
+
+👉 [Functional Interfaces Practice](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com/interfaces)  
+
+👉 [Scenario-Based Practice (Annotations, Reflection, CSV & JSON)](https://github.com/Anvesh1210/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/scenario-base-codebase/CollectionsScenarioBased/src)
