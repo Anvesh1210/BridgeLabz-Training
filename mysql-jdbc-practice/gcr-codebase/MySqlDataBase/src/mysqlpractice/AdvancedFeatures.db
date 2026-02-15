@@ -1,0 +1,285 @@
+mysql> CREATE TABLE books (
+    ->     book_id INT AUTO_INCREMENT PRIMARY KEY,
+    ->     title VARCHAR(200) NOT NULL,
+    ->     author VARCHAR(150) NOT NULL,
+    ->     category VARCHAR(100),
+    ->     total_copies INT NOT NULL,
+    ->     available_copies INT NOT NULL
+    -> );
+Query OK, 0 rows affected (0.32 sec)
+
+mysql> DESC books;
++------------------+--------------+------+-----+---------+----------------+
+| Field            | Type         | Null | Key | Default | Extra          |
++------------------+--------------+------+-----+---------+----------------+
+| book_id          | int          | NO   | PRI | NULL    | auto_increment |
+| title            | varchar(200) | NO   |     | NULL    |                |
+| author           | varchar(150) | NO   |     | NULL    |                |
+| category         | varchar(100) | YES  |     | NULL    |                |
+| total_copies     | int          | NO   |     | NULL    |                |
+| available_copies | int          | NO   |     | NULL    |                |
++------------------+--------------+------+-----+---------+----------------+
+6 rows in set (0.08 sec)
+
+mysql> SELECT * FROM books;
+Empty set (0.03 sec)
+
+mysql> CREATE TABLE students (
+    ->     student_id INT AUTO_INCREMENT PRIMARY KEY,
+    ->     student_name VARCHAR(150) NOT NULL,
+    ->     email VARCHAR(150),
+    ->     phone VARCHAR(20)
+    -> );
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> DESC students;
++--------------+--------------+------+-----+---------+----------------+
+| Field        | Type         | Null | Key | Default | Extra          |
++--------------+--------------+------+-----+---------+----------------+
+| student_id   | int          | NO   | PRI | NULL    | auto_increment |
+| student_name | varchar(150) | NO   |     | NULL    |                |
+| email        | varchar(150) | YES  |     | NULL    |                |
+| phone        | varchar(20)  | YES  |     | NULL    |                |
++--------------+--------------+------+-----+---------+----------------+
+4 rows in set (0.00 sec)
+
+mysql> SELECT * FROM students;
+Empty set (0.00 sec)
+
+mysql> CREATE TABLE borrow_records (
+    ->     borrow_id INT AUTO_INCREMENT PRIMARY KEY,
+    ->     student_id INT,
+    ->     book_id INT,
+    ->     borrow_date DATE,
+    ->     due_date DATE,
+    ->     return_date DATE,
+    ->     fine_amount DECIMAL(10,2),
+    ->
+    ->     FOREIGN KEY (student_id) REFERENCES students(student_id),
+    ->     FOREIGN KEY (book_id) REFERENCES books(book_id)
+    -> );
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> CREATE TABLE borrow_records (
+    ->     borrow_id INT AUTO_INCREMENT PRIMARY KEY,
+    ->     student_id INT,
+    ->     book_id INT,
+    ->     borrow_date DATE,
+    ->     due_date DATE,
+    ->     return_date DATE,
+    ->     fine_amount DECIMAL(10,2),
+    ->
+    ->     FOREIGN KEY (student_id) REFERENCES students(student_id),
+    ->     FOREIGN KEY (book_id) REFERENCES books(book_id)
+    -> );
+ERROR 1050 (42S01): Table 'borrow_records' already exists
+mysql> DESC borrow_records;
++-------------+---------------+------+-----+---------+----------------+
+| Field       | Type          | Null | Key | Default | Extra          |
++-------------+---------------+------+-----+---------+----------------+
+| borrow_id   | int           | NO   | PRI | NULL    | auto_increment |
+| student_id  | int           | YES  | MUL | NULL    |                |
+| book_id     | int           | YES  | MUL | NULL    |                |
+| borrow_date | date          | YES  |     | NULL    |                |
+| due_date    | date          | YES  |     | NULL    |                |
+| return_date | date          | YES  |     | NULL    |                |
+| fine_amount | decimal(10,2) | YES  |     | NULL    |                |
++-------------+---------------+------+-----+---------+----------------+
+7 rows in set (0.00 sec)
+
+mysql> SELECT * FROM borrow_records;
+Empty set (0.00 sec)
+
+mysql> INSERT INTO books(title, author, category, total_copies, available_copies)
+    -> VALUES
+    -> ('Java Programming', 'James Gosling', 'Programming', 5, 5),
+    -> ('Database Systems', 'C.J. Date', 'Database', 3, 3),
+    -> ('Data Structures', 'Mark Allen', 'Computer Science', 4, 4);
+Query OK, 3 rows affected (0.02 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+mysql> SELECT * FROM books;
++---------+------------------+---------------+------------------+--------------+------------------+
+| book_id | title            | author        | category         | total_copies | available_copies |
++---------+------------------+---------------+------------------+--------------+------------------+
+|       1 | Java Programming | James Gosling | Programming      |            5 |                5 |
+|       2 | Database Systems | C.J. Date     | Database         |            3 |                3 |
+|       3 | Data Structures  | Mark Allen    | Computer Science |            4 |                4 |
++---------+------------------+---------------+------------------+--------------+------------------+
+3 rows in set (0.00 sec)
+
+mysql> INSERT INTO students(student_name, email, phone)
+    -> VALUES
+    -> ('Anvesh', 'anvesh@gmail.com', '9876543210'),
+    -> ('Rahul', 'rahul@gmail.com', '9123456780');
+Query OK, 2 rows affected (0.01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> SELECT * FROM students;
++------------+--------------+------------------+------------+
+| student_id | student_name | email            | phone      |
++------------+--------------+------------------+------------+
+|          1 | Anvesh       | anvesh@gmail.com | 9876543210 |
+|          2 | Rahul        | rahul@gmail.com  | 9123456780 |
++------------+--------------+------------------+------------+
+2 rows in set (0.00 sec)
+
+mysql> DELIMITER //
+mysql>
+mysql> CREATE PROCEDURE borrow_book(
+    ->     IN p_student_id INT,
+    ->     IN p_book_id INT
+    -> )
+    -> BEGIN
+    ->     DECLARE v_available INT;
+    ->
+    ->     SELECT available_copies INTO v_available
+    ->     FROM books
+    ->     WHERE book_id = p_book_id;
+    ->
+    ->     IF v_available > 0 THEN
+    ->
+    ->         INSERT INTO borrow_records(student_id, book_id, borrow_date, due_date, fine_amount)
+    ->         VALUES(p_student_id, p_book_id, CURDATE(), DATE_ADD(CURDATE(), INTERVAL 14 DAY), 0);
+    ->
+    ->         UPDATE books
+    ->         SET available_copies = available_copies - 1
+    ->         WHERE book_id = p_book_id;
+    ->
+    ->     ELSE
+    ->         SIGNAL SQLSTATE '45000'
+    ->         SET MESSAGE_TEXT = 'Book Not Available';
+    ->     END IF;
+    -> END //
+Query OK, 0 rows affected (0.03 sec)
+
+mysql>
+mysql> DELIMITER ;
+mysql> CALL borrow_book(1,1);
+Query OK, 1 row affected (0.02 sec)
+
+mysql> SELECT * FROM borrow_records;
++-----------+------------+---------+-------------+------------+-------------+-------------+
+| borrow_id | student_id | book_id | borrow_date | due_date   | return_date | fine_amount |
++-----------+------------+---------+-------------+------------+-------------+-------------+
+|         1 |          1 |       1 | 2026-02-12  | 2026-02-26 | NULL        |        0.00 |
++-----------+------------+---------+-------------+------------+-------------+-------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT * FROM books;
++---------+------------------+---------------+------------------+--------------+------------------+
+| book_id | title            | author        | category         | total_copies | available_copies |
++---------+------------------+---------------+------------------+--------------+------------------+
+|       1 | Java Programming | James Gosling | Programming      |            5 |                4 |
+|       2 | Database Systems | C.J. Date     | Database         |            3 |                3 |
+|       3 | Data Structures  | Mark Allen    | Computer Science |            4 |                4 |
++---------+------------------+---------------+------------------+--------------+------------------+
+3 rows in set (0.00 sec)
+
+mysql> DELIMITER //
+mysql>
+mysql> CREATE PROCEDURE return_book(
+    ->     IN p_borrow_id INT
+    -> )
+    -> BEGIN
+    ->     DECLARE v_due_date DATE;
+    ->     DECLARE v_book_id INT;
+    ->     DECLARE v_fine DECIMAL(10,2);
+    ->
+    ->     SELECT due_date, book_id
+    ->     INTO v_due_date, v_book_id
+    ->     FROM borrow_records
+    ->     WHERE borrow_id = p_borrow_id;
+    ->
+    ->     IF CURDATE() > v_due_date THEN
+    ->         SET v_fine = DATEDIFF(CURDATE(), v_due_date) * 10;
+    ->     ELSE
+    ->         SET v_fine = 0;
+    ->     END IF;
+    ->
+    ->     UPDATE borrow_records
+    ->     SET return_date = CURDATE(),
+    ->         fine_amount = v_fine
+    ->     WHERE borrow_id = p_borrow_id;
+    ->
+    ->     UPDATE books
+    ->     SET available_copies = available_copies + 1
+    ->     WHERE book_id = v_book_id;
+    ->
+    -> END //
+Query OK, 0 rows affected (0.01 sec)
+
+mysql>
+mysql> DELIMITER ;
+mysql> CALL return_book(1);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> SELECT * FROM borrow_records;
++-----------+------------+---------+-------------+------------+-------------+-------------+
+| borrow_id | student_id | book_id | borrow_date | due_date   | return_date | fine_amount |
++-----------+------------+---------+-------------+------------+-------------+-------------+
+|         1 |          1 |       1 | 2026-02-12  | 2026-02-26 | 2026-02-12  |        0.00 |
++-----------+------------+---------+-------------+------------+-------------+-------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT * FROM books;
++---------+------------------+---------------+------------------+--------------+------------------+
+| book_id | title            | author        | category         | total_copies | available_copies |
++---------+------------------+---------------+------------------+--------------+------------------+
+|       1 | Java Programming | James Gosling | Programming      |            5 |                5 |
+|       2 | Database Systems | C.J. Date     | Database         |            3 |                3 |
+|       3 | Data Structures  | Mark Allen    | Computer Science |            4 |                4 |
++---------+------------------+---------------+------------------+--------------+------------------+
+3 rows in set (0.00 sec)
+
+mysql> DELIMITER //
+mysql>
+mysql> CREATE PROCEDURE search_books(
+    ->     IN p_title VARCHAR(200),
+    ->     IN p_author VARCHAR(150),
+    ->     IN p_category VARCHAR(100)
+    -> )
+    -> BEGIN
+    ->     SELECT *
+    ->     FROM books
+    ->     WHERE (p_title IS NULL OR title LIKE CONCAT('%', p_title, '%'))
+    ->       AND (p_author IS NULL OR author LIKE CONCAT('%', p_author, '%'))
+    ->       AND (p_category IS NULL OR category LIKE CONCAT('%', p_category, '%'));
+    -> END //
+Query OK, 0 rows affected (0.01 sec)
+
+mysql>
+mysql> DELIMITER ;
+mysql> CALL search_books('Java', NULL, NULL);
++---------+------------------+---------------+-------------+--------------+------------------+
+| book_id | title            | author        | category    | total_copies | available_copies |
++---------+------------------+---------------+-------------+--------------+------------------+
+|       1 | Java Programming | James Gosling | Programming |            5 |                5 |
++---------+------------------+---------------+-------------+--------------+------------------+
+1 row in set (0.00 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> CALL search_books(NULL, NULL, 'Programming');
++---------+------------------+---------------+-------------+--------------+------------------+
+| book_id | title            | author        | category    | total_copies | available_copies |
++---------+------------------+---------------+-------------+--------------+------------------+
+|       1 | Java Programming | James Gosling | Programming |            5 |                5 |
++---------+------------------+---------------+-------------+--------------+------------------+
+1 row in set (0.00 sec)
+
+Query OK, 0 rows affected (0.12 sec)
+
+mysql> CALL search_books(NULL, NULL, NULL);
++---------+------------------+---------------+------------------+--------------+------------------+
+| book_id | title            | author        | category         | total_copies | available_copies |
++---------+------------------+---------------+------------------+--------------+------------------+
+|       1 | Java Programming | James Gosling | Programming      |            5 |                5 |
+|       2 | Database Systems | C.J. Date     | Database         |            3 |                3 |
+|       3 | Data Structures  | Mark Allen    | Computer Science |            4 |                4 |
++---------+------------------+---------------+------------------+--------------+------------------+
+3 rows in set (0.00 sec)
+
+Query OK, 0 rows affected (0.03 sec)
+
+mysql>
