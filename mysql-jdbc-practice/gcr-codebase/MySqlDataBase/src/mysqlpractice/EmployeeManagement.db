@@ -1,0 +1,99 @@
+mysql> CREATE TABLE employee (
+    ->     emp_id INT AUTO_INCREMENT PRIMARY KEY,
+    ->     name VARCHAR(50) NOT NULL,
+    ->     department VARCHAR(50),
+    ->     salary DOUBLE
+    -> );
+Query OK, 0 rows affected (0.24 sec)
+
+mysql> show tables;
++--------------------------+
+| Tables_in_mysql_practice |
++--------------------------+
+| employee                 |
++--------------------------+
+1 row in set (0.05 sec)
+
+
+
+
+
+--Add employee
+mysql> Insert into employee (name, department,salary) Values ("Anvesh", "IT", 50000);
+Query OK, 1 row affected (0.05 sec)
+
+mysql> INSERT INTO employee (name, department, salary) VALUES
+    -> ('Rohit', 'HR', 38000),
+    -> ('Sneha', 'Finance', 52000),
+    -> ('Amit', 'Sales', 41000),
+    -> ('Pooja', 'IT', 60000),
+    -> ('Karan', 'Operations', 47000);
+Query OK, 5 rows affected (0.13 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+
+
+
+
+--view All employees
+mysql> select * from employee;
++--------+--------+------------+--------+
+| emp_id | name   | department | salary |
++--------+--------+------------+--------+
+|      1 | Anvesh | IT         |  50000 |
+|      2 | Rohit  | HR         |  38000 |
+|      3 | Sneha  | Finance    |  52000 |
+|      4 | Amit   | Sales      |  41000 |
+|      5 | Pooja  | IT         |  60000 |
+|      6 | Karan  | Operations |  47000 |
++--------+--------+------------+--------+
+6 rows in set (0.02 sec)
+
+
+
+
+--update employee salary
+mysql> update employee set salary= 90000 where emp_id=1;
+Query OK, 1 row affected (0.10 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> select * from employee where emp_id=1;
++--------+--------+------------+--------+
+| emp_id | name   | department | salary |
++--------+--------+------------+--------+
+|      1 | Anvesh | IT         |  90000 |
++--------+--------+------------+--------+
+1 row in set (0.01 sec)
+
+
+
+
+-- delete employee
+mysql> delete from employee where emp_id=5;
+Query OK, 1 row affected (0.02 sec)
+
+mysql> select * from employee;
++--------+--------+------------+--------+
+| emp_id | name   | department | salary |
++--------+--------+------------+--------+
+|      1 | Anvesh | IT         |  90000 |
+|      2 | Rohit  | HR         |  38000 |
+|      3 | Sneha  | Finance    |  52000 |
+|      4 | Amit   | Sales      |  41000 |
+|      6 | Karan  | Operations |  47000 |
++--------+--------+------------+--------+
+5 rows in set (0.01 sec)
+
+
+
+--search employee
+mysql> select * from employee where name = "rohit";
++--------+-------+------------+--------+
+| emp_id | name  | department | salary |
++--------+-------+------------+--------+
+|      2 | Rohit | HR         |  38000 |
++--------+-------+------------+--------+
+1 row in set (0.01 sec)
+
+
+
