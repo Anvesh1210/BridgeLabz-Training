@@ -1,0 +1,112 @@
+--creating account and transaction_history tables
+mysql> CREATE TABLE account (
+    ->     account_id INT PRIMARY KEY AUTO_INCREMENT,
+    ->     holder_name VARCHAR(50),
+    ->     balance DOUBLE NOT NULL
+    -> );
+Query OK, 0 rows affected (0.25 sec)
+
+mysql> CREATE TABLE transaction_history (
+    ->     txn_id INT PRIMARY KEY AUTO_INCREMENT,
+    ->     from_account INT,
+    ->     to_account INT,
+    ->     amount DOUBLE,
+    ->     txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    -> );
+Query OK, 0 rows affected (0.04 sec)
+
+--inserting some recoards in the account table
+mysql> INSERT INTO account (holder_name, balance) VALUES ('Rohit', 50000), ('Sneha', 40000), ('Amit', 30000);
+Query OK, 3 rows affected (0.02 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+//printing all the accounts
+mysql> SELECT * FROM account;
++------------+-------------+---------+
+| account_id | holder_name | balance |
++------------+-------------+---------+
+|          1 | Rohit       |   50000 |
+|          2 | Sneha       |   40000 |
+|          3 | Amit        |   30000 |
++------------+-------------+---------+
+3 rows in set (0.01 sec)
+
+
+mysql> SELECT balance FROM account WHERE account_id = 1;
++---------+
+| balance |
++---------+
+|   50000 |
++---------+
+1 row in set (0.01 sec)
+
+
+
+mysql> DELIMITER //
+mysql> CREATE PROCEDURE transfer_money (
+    ->     IN p_from_account INT,
+    ->     IN p_to_account INT,
+    ->     IN p_amount DOUBLE
+    -> )
+    -> BEGIN
+    ->     DECLARE sender_balance DOUBLE;
+    ->
+    ->     DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    ->     BEGIN
+    ->         ROLLBACK;
+    ->     END;
+    ->
+    ->     START TRANSACTION;
+    ->
+    ->     SELECT balance
+    ->     INTO sender_balance
+    ->     FROM account
+    ->     WHERE account_id = p_from_account;
+    ->
+    ->     IF sender_balance < p_amount THEN
+    ->         ROLLBACK;
+    ->         SIGNAL SQLSTATE '45000'
+    ->         SET MESSAGE_TEXT = 'Insufficient balance';
+    ->     END IF;
+    ->
+    ->     UPDATE account
+    ->     SET balance = balance - p_amount
+    ->     WHERE account_id = p_from_account;
+    ->
+    ->     UPDATE account
+    ->     SET balance = balance + p_amount
+    ->     WHERE account_id = p_to_account;
+    ->
+    ->     INSERT INTO transaction_history (from_account, to_account, amount)
+    ->     VALUES (p_from_account, p_to_account, p_amount);
+    ->
+    ->     COMMIT;
+    -> END;
+    -> //
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> DELIMITER ;
+mysql> CALL transfer_money(1, 2, 5000);
+Query OK, 0 rows affected (0.04 sec)
+
+mysql> CALL transfer_money(3, 1, 100000);
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> SELECT * FROM account;
++------------+-------------+---------+
+| account_id | holder_name | balance |
++------------+-------------+---------+
+|          1 | Rohit       |   40000 |
+|          2 | Sneha       |   50000 |
+|          3 | Amit        |   30000 |
++------------+-------------+---------+
+3 rows in set (0.00 sec)
+
+mysql> SELECT * FROM transaction_history;
++--------+--------------+------------+--------+---------------------+
+| txn_id | from_account | to_account | amount | txn_date            |
++--------+--------------+------------+--------+---------------------+
+|      1 |            1 |          2 |   5000 | 2026-02-09 15:49:52 |
+|      2 |            1 |          2 |   5000 | 2026-02-09 16:32:29 |
++--------+--------------+------------+--------+---------------------+
+2 rows in set (0.00 sec)
